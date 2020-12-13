@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.FlyJB</id>
+	<name>FlyJB繁體中文化</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>11.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>FlyJB繁體中文化，使用前先安裝主程式</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

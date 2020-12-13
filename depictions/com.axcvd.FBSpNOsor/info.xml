@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.FBSpNOsor</id>
+	<name>FBSpNOsor</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>13.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>FBSpNOsor作者已下架在網路上找到的備份檔</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

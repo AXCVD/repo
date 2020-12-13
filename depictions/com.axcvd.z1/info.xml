@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.z1</id>
+	<name>iOS9-iOS12 文鼎DC香蕉人體85%小字體【心雨】2019年4月4日</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>9.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>iOS9-iOS12 文鼎DC香蕉人體85%小字體【心雨】2019年4月4日iPhonejB越獄維修安全攻略這裡分享的我只是無聊把它做成deb而已！字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

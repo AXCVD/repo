@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.KillBackgroundSettings</id>
+	<name>KillBackgroundSettings繁體中文化</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>11.0</otherVersions>
+			<!--
+			對於其他版本，您可以放置不受支持或未經確認的版本
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>KillBackgroundSettings繁體中文化，使用前先安裝主程式</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

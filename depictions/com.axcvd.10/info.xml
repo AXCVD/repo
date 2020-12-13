@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.10</id>
+	<name>Duck鎖屏的小鎖頭動畫</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>20.3</maxiOS>
+			<otherVersions>11.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Duck</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了</change>
+	</changelog>
+	<links></links>
+</package>

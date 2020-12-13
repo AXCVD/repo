@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.KernBypass</id>
+	<name>KernBypass</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>20.3</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>我是在這邊看到的,以後(每次)重新越獄後,來這裡下載一鍵激活KernBypass之後,就可以直接使用 KernBypass，不需要在那邊輸入指令啦～ https://hiraku.tw/2020/05/6215/?utm_source=Facebook_PicSee</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

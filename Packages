@@ -1,0 +1,4320 @@
+Package: com.axcvd.3DTools
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.3DTools_1.0.1_iphoneos-arm.deb
+Size: 1630
+MD5sum: ed05f895ae1bf0aa6b296a721905a87e
+SHA1: 69176b5966339b47ef25c367d82ab4934b878965
+SHA256: 02463ef8be7a56c4c39c92557ea1f9d3e730d4ab1359c94933114ee72305118b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3DTools
+Name: 3DTools繁體中文化
+
+Package: com.axcvd.ActionBar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ActionBar_1.0.1_iphoneos-arm.deb
+Size: 1530
+MD5sum: 8deedcb25de09618f2dc7256404c8ff2
+SHA1: 798d9f7f7ffdbd46a14b42d1530b7f849767dda0
+SHA256: 655e8e5a49fc12365e7017cee909c0f723829d30d99f5370f1123c08195e42fe
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ActionBar
+Name: ActionBar繁體中文化
+
+Package: com.axcvd.Airmessage
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Airmessage_1.0.1_iphoneos-arm.deb
+Size: 1628
+MD5sum: c3e85b47f35511d4c0a45dc474077344
+SHA1: ecd0366162cf13d5671c00071c1147b28768d547
+SHA256: 762e2f3181c197b5fd1e3a5ca89e1d31480ee0127b6b2ab3e962fb444f050d8a
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Airmessage
+Name: Airmessage繁體中文化
+
+Package: com.axcvd.AnimationsBeFast
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AnimationsBeFast_1.0.1_iphoneos-arm.deb
+Size: 1922
+MD5sum: 779990c4f9d4c5a18b89ae7c40bd6a97
+SHA1: 6ffac3987716116b79c44439ea1c7670b114a3b3
+SHA256: c020739a26d0baef8d23b2de2311919d1d5dffaab73490c6490230db3c3d2d4c
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AnimationsBeFast
+Name: AnimationsBeFast繁體中文化
+
+Package: com.axcvd.AntsPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AntsPrefs_1.0.1_iphoneos-arm.deb
+Size: 1504
+MD5sum: b4b597ab4f0c54ec16392926f72c0629
+SHA1: 4be07cf8190eecf095b238541c2bf6b5d5602779
+SHA256: 4d2e65cd654e7b3232ff97d20a5326f0f2f00943c4d335598e62144025e1ae33
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AntsPrefs
+Name: AntsPrefs繁體中文化
+
+Package: com.axcvd.Asteroid
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Asteroid_1.0.1_iphoneos-arm.deb
+Size: 4400
+MD5sum: f675e93c613f050a051ab3b88bd86b8a
+SHA1: ea2cd60df433dffdba029aae5edf34634ac49575
+SHA256: e725e7bb4bc74419ed292225899d677343151e7f0082cbdbc7e002df89e612e2
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Asteroid
+Name: Asteroid繁體中文化
+
+Package: com.axcvd.AutoBlue
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AutoBlue_1.0.1_iphoneos-arm.deb
+Size: 1606
+MD5sum: cd733bd8a5d27be6e9c95b749660aeeb
+SHA1: ea2352dc706cd830315ff8858930584bdc8af296
+SHA256: e12faed00b3bf72866b55fe24194b8662d2c3fd33fe1092677de6b74f7917716
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AutoBlue
+Name: AutoBlue繁體中文化
+
+Package: com.axcvd.BatteryFolderTitle
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BatteryFolderTitle_1.0.1_iphoneos-arm.deb
+Size: 2214
+MD5sum: ceaedc65b6d0163f479070e1d970f3c5
+SHA1: 425797b065ab97728ad7a7e47a53a5f49e72db57
+SHA256: 10382810dfb507a7c7cb09a6e6540e580b8406a95193fd1fe14fcfc335aa5d98
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BatteryFolderTitle
+Name: BatteryFolderTitle繁體中文化
+
+Package: com.axcvd.BatteryPercent12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BatteryPercent12_1.0.1_iphoneos-arm.deb
+Size: 1474
+MD5sum: bc19eccbe8b92d438945bed715034057
+SHA1: a298eb4143bf4625eaba13441407afc6b2d88ddf
+SHA256: 6252070bdf3e9f7b12d9e285f0cac3ecd0296752d935b38a7750e78d6db1d108
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BatteryPercent12
+Name: BatteryPercent12繁體中文化
+
+Package: com.axcvd.BetterCCXI
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BetterCCXI_1.0.1_iphoneos-arm.deb
+Size: 1246
+MD5sum: b7b65796ec92d010e559cd6313a9ebc8
+SHA1: 0041588c0c7db9c09e571538b8712b617902d334
+SHA256: fc7d20376bc48100f88c660ba8ad0bd6ece99827fce97add472342f7060e0dbf
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BetterCCXI
+Name: BetterCCXI繁體中文化
+
+Package: com.axcvd.BetterSettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BetterSettings_1.0.1_iphoneos-arm.deb
+Size: 2266
+MD5sum: 744f97c8b7afd02464a1e1b672081c10
+SHA1: 99609ce98604f03663b17fc4d6c98746efcf1849
+SHA256: 4ca384c67f4231905c235cb7782ecf9a9fa2856168c99f7defdc51dd597ce917
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BetterSettings
+Name: BetterSettings繁體中文化
+
+Package: com.axcvd.Bezon
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Bezon_1.0.1_iphoneos-arm.deb
+Size: 1328
+MD5sum: 4863da5523a6cb85c6c8a01029c42791
+SHA1: d5fbed66c04b51994aca63adac85135c87f04e06
+SHA256: 1509910af9ce29e23860fc2e32548b5a42d5a6af42233ef3921569b5c23c9333
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Bezon
+Name: Bezon繁體中文化
+
+Package: com.axcvd.Bolders
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Bolders_1.0.1_iphoneos-arm.deb
+Size: 2026
+MD5sum: 58fec49b8e883035ee69d929a13bc2fd
+SHA1: 7bb318c7b8e0795f1476b64a6da410496f6136e2
+SHA256: eff7cdda693208eb8c85929739b13e262b52779c0fd70e3abd8142e53c03319b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Bolders
+Name: Bolders繁體中文化
+
+Package: com.axcvd.BottomToolBar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BottomToolBar_1.0.1_iphoneos-arm.deb
+Size: 1654
+MD5sum: f416bba219ea6391da03c13157527866
+SHA1: ef9190cd725c0b91df6a745972ff80af6b339958
+SHA256: e7c926c86183c083644d0143b0995c0eb7ec4af1e9e7afd653dcbb0fa1a9bd4e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BottomToolBar
+Name: BottomToolBar繁體中文化
+
+Package: com.axcvd.Boxy
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Boxy_1.0.2_iphoneos-arm.deb
+Size: 2550
+MD5sum: f84cce181db48fed781bc8381db02adc
+SHA1: ba54ff0d6769c8f9fe08e968412b66d040e5c994
+SHA256: 68d7d36963de80af2c2826916e3a7cb12a00611697cafd45390d415d03e31cd5
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Boxy
+Name: Boxy 繁體中文化
+
+Package: com.axcvd.CCRinger
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CCRinger_1.0.1_iphoneos-arm.deb
+Size: 1198
+MD5sum: d77542cd66d2fd35822ed5738e63b2d6
+SHA1: 37d39ef6336323bc58794695ab34772cf994fa4c
+SHA256: c13a4314f921a60c617386988b9533c39db9ba10cd82b26ab13b5488d410ec18
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CCRinger
+Name: CCRinger繁體中文化
+
+Package: com.axcvd.CallBarXS
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CallBarXS_1.0.4_iphoneos-arm.deb
+Size: 3628
+MD5sum: c93b6f26ceaadede2fc6b3130fff59a5
+SHA1: ec9384825d9eb3b94aad46a3a0ae73cc4e0405f6
+SHA256: 6f9d3c5a2796258747f788d599cb9460ec47f9fd36982b187fe904e6a1007f22
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBarXS
+Name: CallBar XS(iOS12/13)繁體中文化
+
+Package: com.axcvd.CallBlocker
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CallBlocker_1.0.3_iphoneos-arm.deb
+Size: 2172
+MD5sum: 9cbe9db4c0cc123ac172b0ed191b6c65
+SHA1: cecd02950093cfb3cd2302b1da6a2149a136e357
+SHA256: 1500c36459842cc09206940a86754ce2d1dd90973c7bbf29de8da738d6bdfea8
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBlocker
+Name: CallBlocker繁體中文化
+
+Package: com.axcvd.ChargeAnimations
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ChargeAnimations_1.0.1_iphoneos-arm.deb
+Size: 1994
+MD5sum: b799049655fec082e6581b5ae44b8d1e
+SHA1: f10f6e94f6ff1e4d971070daa54d6b03ce65d3c7
+SHA256: c4856a4768f8b0cd810b355c52aebb5554a9b98446fdc9ca9aeefa15c42ce33b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ChargeAnimations
+Name: ChargeAnimations繁體中文化
+
+Package: com.axcvd.CleanHomeScreen
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CleanHomeScreen_1.0.1_iphoneos-arm.deb
+Size: 1596
+MD5sum: f461910d2bf4b95ad4a04fa0e6100d25
+SHA1: 630f0108e466561ef71ef478f9fd8c55b0a54fb5
+SHA256: 7a02289a350c050525dbb39bb21c526abe23a94a7dc003bdcf122bacbc249dc8
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CleanHomeScreen
+Name: CleanHomeScreen繁體中文化
+
+Package: com.axcvd.ColorMyCCModules
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ColorMyCCModules_1.0.1_iphoneos-arm.deb
+Size: 1804
+MD5sum: 30d8023c7f399b1e144de4ab2283fe9c
+SHA1: bfbcc7a9e340adc6cf3ecae717a6952c28b8ad22
+SHA256: 848287e844b6828d1d6d249b755d0266c5c6157fe74ab47773d98a2a8dc88219
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorMyCCModules
+Name: ColorMyCCModules繁體中文化
+
+Package: com.axcvd.CoolCCPref
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CoolCCPref_1.0.2_iphoneos-arm.deb
+Size: 1298
+MD5sum: 90455c3611c1926b608730967dfb9d3e
+SHA1: 3f8fc4f4504f2538f9eb21119b7418b29f675a0d
+SHA256: 4b6fe4ffff4524b8e6bd2d7fa77b38e1a509d34fa931d6a5abb593a77de5fbb7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CoolCCPref
+Name: CoolCCPref繁體中文化
+
+Package: com.axcvd.CoolFolderPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CoolFolderPref_1.0.1_iphoneos-arm.deb
+Size: 1212
+MD5sum: f734137fe1b10d370e465127e9ad8dde
+SHA1: 36158be0d4477b28f56a289f3a305b695f2a097d
+SHA256: 3321d2635194d1b18a62631a9fdf680151cb97bf1f098f38f33e1574e548d03f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CoolFolderPref
+Name: CoolFolderPref繁體中文化
+
+Package: com.axcvd.CopyLog
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CopyLog_1.0.1_iphoneos-arm.deb
+Size: 1582
+MD5sum: 00b94e08176c3de403eec6ef6b43ce44
+SHA1: 1ddfa179c429f5e0f11cdae8d9efc148a8610d95
+SHA256: d7946e3d7f78f9a5855a83a93eaeea4194b544d436a39dc16bf63ddc5f2ab08b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CopyLog
+Name: CopyLog繁體中文化
+
+Package: com.axcvd.CrashReporter
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CrashReporter_1.0.2_iphoneos-arm.deb
+Size: 1152
+MD5sum: 9a6a647582929428c9e1c41d1669e2ce
+SHA1: c87e13abc32cbbd6996983e61b9d3bad10ac9d35
+SHA256: 98667b2ba2458f35539e1ebcb9c234cfaf857958ebd84644f08b607eda5965c0
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CrashReporter
+Name: CrashReporter繁體中文化
+
+Package: com.axcvd.Cydia
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Cydia_1.0.1_iphoneos-arm.deb
+Size: 78812
+MD5sum: 2267f5ca1cfb462695b8699cdcba9817
+SHA1: 415930371a97613f9a94792069d9801f0282e957
+SHA256: 987bc0b03078ccd8246a6e72497b3bd6fc52a60dab1533407440181749835a3c
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cydia
+Name: Line主題所有主題免費下載
+
+Package: com.axcvd.DLEasy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DLEasy_1.0.1_iphoneos-arm.deb
+Size: 2820
+MD5sum: ef0d841ea1ef93ffc06f0d1c8327697c
+SHA1: 9b1bef4eab09ba5def81ef72f7e126f6a7eac1c2
+SHA256: de4889fdb9788a4c5bca92599015749b5536672d73948c81e706084887ff9176
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DLEasy
+Name: DLEasy繁體中文化
+
+Package: com.axcvd.DarkChrome
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DarkChrome_1.0.1_iphoneos-arm.deb
+Size: 1176
+MD5sum: b132d89c24c8138de2d537300ebceeb0
+SHA1: 1a6b29dfd7153ab8b0b23a9ec4494446c7379744
+SHA256: 19de53b112334c3460ddb666f428ed0df8a7950c1cf01b8a1af968a87af7f1c9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DarkChrome
+Name: DarkChrome繁體中文化
+
+Package: com.axcvd.DayNightSwitch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DayNightSwitch_1.0.1_iphoneos-arm.deb
+Size: 1290
+MD5sum: 209492a9ec920025b027bcc85060ac75
+SHA1: 197584ed76dfd210656861a37541eb7131fc0cab
+SHA256: 756c985c23da6b2f55adedf8a138e9c7074e4a0ca6d36666e4d2fbf8ecb2b877
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DayNightSwitch
+Name: DayNightSwitch繁體中文化
+
+Package: com.axcvd.DenyPhotoAlbums
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DenyPhotoAlbums_1.0.1_iphoneos-arm.deb
+Size: 2142
+MD5sum: 3b427a850e882aa0a12240d306053c91
+SHA1: 36261cb813145e04bb29a4047abf61262ef16cb0
+SHA256: 409fa7470430bf8b0f969b387207c9723a9409f69136c0955751c9fd54d46a4b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DenyPhotoAlbums
+Name: DenyPhotoAlbums繁體中文化
+
+Package: com.axcvd.DoubleTapLockPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DoubleTapLockPrefs_1.0.1_iphoneos-arm.deb
+Size: 1090
+MD5sum: f8abbfc9a0a4198ecc13d0743a7c6443
+SHA1: 85483896ae52194112eaaa510ee04331f77b21f5
+SHA256: 81d1e6cfbb1a6cf1439652d73e51044c9d4303fd9d4f762c21045cb0f47d52c8
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DoubleTapLockPrefs
+Name: DoubleTapLockPrefs繁體中文化
+
+Package: com.axcvd.Dune
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Dune_1.0.1_iphoneos-arm.deb
+Size: 1216
+MD5sum: fdebca9ade2b78fae21f8b9c17daa1e6
+SHA1: 0c91886465fa2ed2a16b1d970dde218790fe62b3
+SHA256: f06ca38663a63ad7f7adf10bd0d54ae3f632b4f4dd0d90a08cfff60075712bcf
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dune
+Name: Dune繁體中文化
+
+Package: com.axcvd.EasySwitcherXPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.EasySwitcherXPrefs_1.0.1_iphoneos-arm.deb
+Size: 1136
+MD5sum: 8220fd0ba752532c4b20c11f4fad0842
+SHA1: 52b440717fb3b600dd02dda147999b691fd07287
+SHA256: 48f34ea411233638fe079fb47dcb181bbe9ce80cb1f33907888fd1f151662dcb
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.EasySwitcherXPrefs
+Name: EasySwitcherXPrefs繁體中文化
+
+Package: com.axcvd.EclipseSettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.EclipseSettings_1.0.1_iphoneos-arm.deb
+Size: 3476
+MD5sum: 6fe1fe84d0a6200b86be9478f6b1fb6c
+SHA1: b886e364268164f3256601afcc83f5639d8877e7
+SHA256: 61d3dd784f2828f8fa34bfc840f5174fde7552d32fa955b4bee22c2038b052b8
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.EclipseSettings
+Name: EclipseSettings繁體中文化
+
+Package: com.axcvd.Ermete
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Ermete_1.0.1_iphoneos-arm.deb
+Size: 2030
+MD5sum: 577110a0c70f2544c26250219a3857de
+SHA1: 778bd8c883408e05c4b13d662c70f5690e99e8b7
+SHA256: c235e092e90139438280e89116bebe00993a44f31df4d45e76c32195e6b7d9a0
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Ermete
+Name: Ermete繁體中文化
+
+Package: com.axcvd.FacesPro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FacesPro_1.0.1_iphoneos-arm.deb
+Size: 982
+MD5sum: 8aa8f2f76bac21b6b62e5afb81bf57bc
+SHA1: a835313d8da545497f4d254c66c08830b97b10ee
+SHA256: 5588ee89cabba88baa9ced701fc03a603a83b101da6bf531752934b2b361be7a
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FacesPro
+Name: FacesPro繁體中文化
+
+Package: com.axcvd.FloatingDockPlus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FloatingDockPlus_1.0.1_iphoneos-arm.deb
+Size: 2742
+MD5sum: c49b191fedd9656e6739bf72b1726b53
+SHA1: 0afeea7fed0fba7a5ad6fb01fd754d0008b4a3b6
+SHA256: 8646ca6a286932f338b8c4c2a3b144ed8aa0a4af2985ccbbd3db438877942091
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FloatingDockPlus
+Name: FloatingDockPlus繁體中文化
+
+Package: com.axcvd.FloatingDockPlus13
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FloatingDockPlus13_1.0.2_iphoneos-arm.deb
+Size: 3064
+MD5sum: fb50acb6e17373f1b9c8eee18a40a070
+SHA1: 6e25d589d0776fdef224e5055b5b7c8cf4243570
+SHA256: 4f017181a50b291e19a5035b7112a5e60efe91a2354e142708298558a2f45e5e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FloatingDockPlus13
+Name: FloatingDockPlus13 繁體中文化
+
+Package: com.axcvd.Glowy
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Glowy_1.0.2_iphoneos-arm.deb
+Size: 2068
+MD5sum: dd4d4a025aa2858a4a9c8f3ad5191b0e
+SHA1: 7b10ab96640b036b888f4d2452c4ba849a86e94d
+SHA256: 9906849dbbc94fe0b0893f2352529996bb6f58da47011636b2045a5d448ab140
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Glowy
+Name: Glowy繁體中文化
+
+Package: com.axcvd.HomeSwitcher
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.HomeSwitcher_1.0.1_iphoneos-arm.deb
+Size: 2160
+MD5sum: 57f794381413b9e75d54c93ede37ba69
+SHA1: 7733c0181f05f3bf3265251dcd3d5ec077ca66a4
+SHA256: 44f39460bb0132793a62af55bcbfd8839e97457004876f35248851df0ae51479
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HomeSwitcher
+Name: HomeSwitcher繁體中文化
+
+Package: com.axcvd.KillBackground
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.KillBackground_1.0.1_iphoneos-arm.deb
+Size: 2616
+MD5sum: 262b5b0a1da6c8d7c4da5319418295a2
+SHA1: d31c9ce5bc105d3ef00e0bc1e7af2e173f1efb5a
+SHA256: d92c0c9f18393005608619e41fe0a3b92276e897da9eac200e9af0aa781e0969
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KillBackground
+Name: KillBackground繁體中文化
+
+Package: com.axcvd.LINEToolsXII
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LINEToolsXII_1.0.4_iphoneos-arm.deb
+Size: 2606
+MD5sum: c2ec5e25d5e3d3a7e424a236880c3464
+SHA1: 1c1dade6a8a837b3f46ba58f24edb194b333db4c
+SHA256: f3f913d5ab84182ba728578d502176d6f340b62f00e7afb7cae4ac3b8ccbddd4
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LINEToolsXII
+Name: LINEToolsXII繁體中文化
+
+Package: com.axcvd.LatchKey
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LatchKey_1.0.1_iphoneos-arm.deb
+Size: 1300
+MD5sum: b745298f7b5cc85c115476f026445c6b
+SHA1: 42a90e66ddf51d10f059174d61515c03a197ac00
+SHA256: ad8d66006c2f25ca148faa8c983dabf10075b71efd52f2739b4dd858f1a989d3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LatchKey
+Name: LatchKey繁體中文化
+
+Package: com.axcvd.Launchtron
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Launchtron_1.0.1_iphoneos-arm.deb
+Size: 1502
+MD5sum: 3d1fa3385523e40e8c1f5e074cb6a129
+SHA1: 91af71627d78ac189fe99d8f356cd38e9f8fcb75
+SHA256: ddfc4b94301fe0eec8ae82e0d81d26d9c4403b9aad9321506bb3715b3184ebed
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Launchtron
+Name: Launchtron繁體中文化
+
+Package: com.axcvd.LibertyPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LibertyPref_1.0.1_iphoneos-arm.deb
+Size: 984
+MD5sum: d7683f89f148056d93127f008e55baf9
+SHA1: 2cecb9774f496177467922fb97896377cf840c84
+SHA256: 96c6f1a65a915980e31bc1ca111fc70a56033045008a8093d6754896de0ae2bd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LibertyPref
+Name: LibertyPref繁體中文化
+
+Package: com.axcvd.LineToolsPreference
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LineToolsPreference_1.0.1_iphoneos-arm.deb
+Size: 3004
+MD5sum: eafe76ecee4e166db241763ce2ef97a3
+SHA1: 55f7922474b204f56753da657a84fb324ea30ba3
+SHA256: b6e55411e85ff8a859f464dac2cf2d6e4582c2bdc78621c1de0c085237b9ec3b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LineToolsPreference
+Name: LineToolsPreference繁體中文化
+
+Package: com.axcvd.Localizations
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Localizations_1.0.1_iphoneos-arm.deb
+Size: 1098
+MD5sum: a6ed4da1f9af14bed3c07f21e70ccc8a
+SHA1: 4f03770e8901d6dccffcdd4e2a5dace875bee113
+SHA256: 1a99da4deac798e0c95d6c1ec8170cffc6586da162e5aab62961cb47355ba685
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Localizations
+Name: Localizations繁體中文化
+
+Package: com.axcvd.LockPage
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LockPage_1.0.1_iphoneos-arm.deb
+Size: 1442
+MD5sum: 90bae5f4c1ddcb395bfec2ebc0f7a64a
+SHA1: f5ce5d919754a9ca54c371ba897bdc52ab2b3b04
+SHA256: 655bdc38cf5e54a6c249c72981aa577a5b13b8a1edf084e610ee8860d81aa5e5
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LockPage
+Name: LockPage繁體中文化
+
+Package: com.axcvd.Malipo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Malipo_1.0.1_iphoneos-arm.deb
+Size: 1584
+MD5sum: 7ad05e955ebc5f4938816bb45df323ba
+SHA1: dd5f326af98d23b9816f55988abdf15e80056ba8
+SHA256: fc7abd5af8333b7d4bc9501dcc6d2c345f251139cffadb6d568d6e420645b6da
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Malipo
+Name: Malipo繁體中文化
+
+Package: com.axcvd.Mejor
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Mejor_1.0.1_iphoneos-arm.deb
+Size: 3016
+MD5sum: 6f013d507390a80d03d681dd1b4cb09f
+SHA1: dd2e2a8d8720de7fd65951727caee31ead2deb2b
+SHA256: 8fad219598a362c7b0946b959d2d39a97bbdf0cb5541172146697424be5ea46d
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Mejor
+Name: Mejor繁體中文化
+
+Package: com.axcvd.NCGrabberInfo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NCGrabberInfo_1.0.1_iphoneos-arm.deb
+Size: 1144
+MD5sum: 98312cc8d31b273eee2902d787423407
+SHA1: da3b929bc432b4b3de29c604627d7a365eb51055
+SHA256: d78bcffaf383d6157b93edfa76827db967d805dd035d324d5a84723dc6eb1b42
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NCGrabberInfo
+Name: NCGrabberInfo繁體中文化
+
+Package: com.axcvd.NFCWriter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NFCWriter_1.0.1_iphoneos-arm.deb
+Size: 1938
+MD5sum: 488d1aad14b9713a656e26cbbbc6f612
+SHA1: 84904c77c495fd8f64ec96d02191777548495988
+SHA256: 02491d48da346643115e5c15562ebf0f3899fd91f5a51843f6e21037681a5287
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NFCWriter
+Name: NFCWriter繁體中文化
+
+Package: com.axcvd.NPF
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NPF_1.0.1_iphoneos-arm.deb
+Size: 1414
+MD5sum: 5eaea8deb24e8c2b5d59d3be10a28815
+SHA1: e15c4e351d9409b71d0ba7150e078811b4f897b8
+SHA256: 693400b87fc4f158905345a7ce121a17bccc7a3e52b6f8fd3760c974eee590fd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NPF
+Name: NPF繁體中文化
+
+Package: com.axcvd.NPFPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NPFPref_1.0.1_iphoneos-arm.deb
+Size: 1252
+MD5sum: 78197a031731d2f2e9a11e0a0ea7acb8
+SHA1: f8c072703e817b5b8418c5db4978b8d0f952c815
+SHA256: 2c79a6a436dbe7a97f70519e99ad3e4e92b06e4966779f13ea90ae4fc8fb3fba
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NPFPref
+Name: NPFPref繁體中文化
+
+Package: com.axcvd.NoSubstitute
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NoSubstitute_1.0.1_iphoneos-arm.deb
+Size: 1188
+MD5sum: ec56cb56c846545fc0bcd1f25d185b1e
+SHA1: 3eae90eafd87d62badd799f84479b87987f30d7e
+SHA256: 49cbe04b2cc5e18c39a2cda5a2020bf6d33096aa1b27cc56ff2279efa50f55a4
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NoSubstitute
+Name: NoSubstitute繁體中文化
+
+Package: com.axcvd.Notchificatio
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Notchificatio_1.0.2_iphoneos-arm.deb
+Size: 1770
+MD5sum: e9ecc580c84db3f9d24eb690637e131d
+SHA1: 5c382eb6093be201c21e313262cdd1a50f16b4df
+SHA256: 1b772a928e225f9a111a57827257b94963ccc9753072a2527b68d3bf8f4ae050
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Notchificatio
+Name: Notchificatio繁體中文化
+
+Package: com.axcvd.NudeKeys
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NudeKeys_1.0.1_iphoneos-arm.deb
+Size: 1230
+MD5sum: 2fada495cbaca557bf59b6710378bf3e
+SHA1: 6f6b81ecc47908cc46fa8525a03433b31451c425
+SHA256: bef0348e2be75d87b21374fee622b46aacb3713ed258e4fcf86add2ca397b026
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NudeKeys
+Name: NudeKeys繁體中文化
+
+Package: com.axcvd.OpenSshPort
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.OpenSshPort_1.0.1_iphoneos-arm.deb
+Size: 1990
+MD5sum: 01b6acbde5293e5db4a71c8b07d513bc
+SHA1: bf5bc176f04c2db57fbda6ce035845a2b97462a8
+SHA256: 8d4ded7d26ca4395590e45cb3a974d7201ef43aa116289466d7aa34b78060315
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.OpenSshPort
+Name: OpenSshPort繁體中文化
+
+Package: com.axcvd.Palette
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Palette_1.0.1_iphoneos-arm.deb
+Size: 2202
+MD5sum: d623fcde790cd82e44a5a59518dce48d
+SHA1: b0914dbece84cffa6249960f7d23a49555750489
+SHA256: 5b8f73530364f90de9476790e1f1689f239c9e94968526811c5d2e13245d4530
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Palette
+Name: Palette繁體中文化
+
+Package: com.axcvd.PowerModule
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.PowerModule_1.0.1_iphoneos-arm.deb
+Size: 1164
+MD5sum: 62d4976d72927ab3a0b64590d6f0ab1f
+SHA1: 194fb42e8a2fb30fab85c4d3941287baef82927a
+SHA256: b0df80c3ae079d6521a0ea67b5aea847ab3084d3cc07ce6b995523426f49e424
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PowerModule
+Name: PowerModule繁體中文化
+
+Package: com.axcvd.Relocate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Relocate_1.0.1_iphoneos-arm.deb
+Size: 1350
+MD5sum: 759bfb90e38b0b18ba22d0e8903ed9cf
+SHA1: 6d85f4db27ff0f375270a72dbb14b87751999a5e
+SHA256: c89c088af7320065cf04cafec3a1b15493924928d3f59d0cdd97210e8e273af5
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Relocate
+Name: Relocate繁體中文化
+
+Package: com.axcvd.SelectorPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SelectorPrefs_1.0.1_iphoneos-arm.deb
+Size: 1258
+MD5sum: f1192f3f72e1fdc4fc06ad34ac7bdb0c
+SHA1: 2563cc1b1ae3689eaebfbaa25c079952fffc5f8f
+SHA256: 282e94a1efcb9c41da60f612771d5c7ba9874dc6527347bdf484b1ffb6a951b5
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SelectorPrefs
+Name: SelectorPrefs繁體中文化
+
+Package: com.axcvd.Shadow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Shadow_1.0.1_iphoneos-arm.deb
+Size: 2956
+MD5sum: 995d1ad464ce85b240cb91e8a9a89a32
+SHA1: fa91927a545b7ccf2bdd4b636931a3e071b4c0a8
+SHA256: a7cad4c7fa023f66be58e41fe6e010ce9d5d18b5949223a3950234a8394ef046
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Shadow
+Name: Shadow繁體中文化
+
+Package: com.axcvd.ShowTouch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ShowTouch_1.0.1_iphoneos-arm.deb
+Size: 1386
+MD5sum: 9e5e3be879d26a60c35450ef57f729b5
+SHA1: cc008c1f868551943b05bf17f94588be3eb291b8
+SHA256: 532f96499feec651ef376c5ff435739a79f85a4c5f920f15949fe754d74e4dc9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ShowTouch
+Name: ShowTouch繁體中文化
+
+Package: com.axcvd.Sleeper
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Sleeper_1.0.1_iphoneos-arm.deb
+Size: 1700
+MD5sum: ddb00aef5bdb7bf828692ec06b77ab41
+SHA1: 54286ba24e36854436766dd4e489794c36f619d8
+SHA256: 6ff8a90aab7adb5c4fdbd8edea438adc50ec43bc55c39bb2e6525dae7430f49a
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Sleeper
+Name: Sleeper繁體中文化
+
+Package: com.axcvd.SmartLPM
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SmartLPM_1.0.1_iphoneos-arm.deb
+Size: 1652
+MD5sum: b865b9f88c3b493113ae6fd2ff0867b5
+SHA1: 784e0f4eb6d59637f241e60a8368cd22eb413b76
+SHA256: ba413c8df45c699d0fec4b649ff4115f23ce0f2f0eefab10ad1ebc013bf877bf
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartLPM
+Name: SmartLPM繁體中文化
+
+Package: com.axcvd.SnowboardPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SnowboardPrefs_1.0.1_iphoneos-arm.deb
+Size: 1304
+MD5sum: c0c3e899ebcf0fd65434ebe8d6317543
+SHA1: 58b971b0971c8c8266332b9edbf373292fb3ad39
+SHA256: 18736815e0c87ba116708dc79fcfe900fa5b1186e0db8926bf3dfc2797c98ae8
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SnowboardPrefs
+Name: SnowboardPrefs繁體中文化
+
+Package: com.axcvd.SpinSettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SpinSettings_1.0.1_iphoneos-arm.deb
+Size: 1624
+MD5sum: bd6873cfb1a15fd35f089aee9d0955b5
+SHA1: 7796a0a0aaf8f35331394d51e21417ff85cf7ed5
+SHA256: 397a83042aeff18ca53f4713b40dd3df036c31591bf32f7efbb2c516765b6533
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpinSettings
+Name: SpinSettings繁體中文化
+
+Package: com.axcvd.SpringPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SpringPref_1.0.1_iphoneos-arm.deb
+Size: 4750
+MD5sum: bcaa6b15af300c60538a47d668279c79
+SHA1: 21adb08b06ba3cc1f3509f08aa005ab9783f9dad
+SHA256: fc5835d2cdff3046301f178f63804bd20765b91fdf8be34d2fabe25eda5355c1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpringPref
+Name: SpringPref繁體中文化
+
+Package: com.axcvd.SpringPref11
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SpringPref11_1.0.1_iphoneos-arm.deb
+Size: 4774
+MD5sum: ad0edfef3b544c7ace652f32ed8c77f5
+SHA1: 2f59160314fed6d9dd20473e0b0f8cc7dbffe589
+SHA256: aa5290691edf8dec957ac7cb067709ff82e2e4c849b3ef2aeb13a1a264771eac
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpringPref11
+Name: SpringPref11繁體中文化
+
+Package: com.axcvd.SpringToolz
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SpringToolz_1.0.1_iphoneos-arm.deb
+Size: 2416
+MD5sum: 5a4492d3ad27309de8d436961e79b696
+SHA1: 1517cbbfb6cfa820f9bc5a5e84ed1de235476d13
+SHA256: 62a77e2c1c8c555ac24e1ff2b0e281578a321e78f990895420ad077716d8a9ff
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpringToolz
+Name: SpringToolz繁體中文化
+
+Package: com.axcvd.Springtomize4
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Springtomize4_1.0.1_iphoneos-arm.deb
+Size: 9424
+MD5sum: c6cd30d26c3399eec0c0d5c15bfed810
+SHA1: 602644db03ce38aa39a66fa2d1e526d34bcd609d
+SHA256: e3da73c4fdd9b0b33df3ad4654af66d9fe0d1c35cf8a2cc83a1f6616c3ff55f7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Springtomize4
+Name: Springtomize4繁體中文化
+
+Package: com.axcvd.Stylish11
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Stylish11_1.0.1_iphoneos-arm.deb
+Size: 12800
+MD5sum: 64d07c3652379170375126cb3b8463f0
+SHA1: 707d495e88bb94637b4f428adf40aaba1c6f8f45
+SHA256: da10434e2a86e0ab8b2302f9f9bba9a0912ecdbb9300f1cff65a22bc04d24d5c
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Stylish11
+Name: Stylish11繁體中文化
+
+Package: com.axcvd.Tinnitus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Tinnitus_1.0.1_iphoneos-arm.deb
+Size: 1242
+MD5sum: cfe376ee01f38a2eafbf0864e0958cf9
+SHA1: 2338524c836f11528d8e333dabd637962037f615
+SHA256: b704929be313ed0917237cc250c04c7b196587b4a1387a8a25d83a1c24cf534f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Tinnitus
+Name: Tinnitus繁體中文化
+
+Package: com.axcvd.TintIconLabel
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TintIconLabel_1.0.1_iphoneos-arm.deb
+Size: 1928
+MD5sum: 8d994308082e292a5eb204bfb35bd30f
+SHA1: df878868f57befa3f3b73d508a92887c97b9f86c
+SHA256: c0f4331edb59ba027bdc4b5d50fa69bf7447ff59cee4d48372f43966681a80af
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TintIconLabel
+Name: TintIconLabel繁體中文化
+
+Package: com.axcvd.Togglow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Togglow_1.0.1_iphoneos-arm.deb
+Size: 3312
+MD5sum: 6ba77c33a15043cda7769270a2fa12a9
+SHA1: fa4eaafaaa3f8fa9eabbe16feaeeb82dd03819b4
+SHA256: e52f292df69c42a4576f48e1252be506cb557d49a30d3762c207ccbb207b58da
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Togglow
+Name: Togglow繁體中文化
+
+Package: com.axcvd.UnSubPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.UnSubPrefs_1.0.1_iphoneos-arm.deb
+Size: 1984
+MD5sum: c838665929cd0e5121174ecec9085252
+SHA1: 7dbe7fe12e7f414768edbd79f14e0d88abf60b2c
+SHA256: 08f92bb473ee63c3d22bd0ca715203454f88c27739d455da45f3d7bd96319b38
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.UnSubPrefs
+Name: UnSubPrefs繁體中文化
+
+Package: com.axcvd.Vesta
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Vesta_1.0.1_iphoneos-arm.deb
+Size: 1310
+MD5sum: 68389bb0dfe7521d83cc51f1f957504f
+SHA1: 212a4469d933b0635fbaecc251d8fcb216dc5c6d
+SHA256: b103ed092e7b6a4c02af96d8a78f02bc84c34c9faa5330e1b5c2a4a88e0bceb9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vesta
+Name: Vesta繁體中文化
+
+Package: com.axcvd.WiiVampPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.WiiVampPref_1.0.1_iphoneos-arm.deb
+Size: 1264
+MD5sum: 6ef136e2b92a1baaa8f2a7091260d1ac
+SHA1: 2338760c6471ff58cb478687b0407cf08b5f53ec
+SHA256: b5dcce679c5535c5217a390d8e6b87b18aa0d7a376ef2dfe2ac1cb0826ff25e0
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.WiiVampPref
+Name: WiiVampPref繁體中文化
+
+Package: com.axcvd.XenInfo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.XenInfo_1.0.1_iphoneos-arm.deb
+Size: 2928
+MD5sum: 96a8edebd58b28ce3bbb780025653955
+SHA1: 8a6edfa57c254afd2fec7e296fc3d6a9e7c653d0
+SHA256: bc3b4b872784e39330f415c20cd654e7781e04600fca81b5d9d07652eae0375d
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.XenInfo
+Name: XenInfo繁體中文化
+
+Package: com.axcvd.anilaunchprefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.anilaunchprefs_1.0.1_iphoneos-arm.deb
+Size: 2180
+MD5sum: 17900cd252c838969d5c19a8873837f4
+SHA1: 1fcd73165cf0a68928ec48137e4cb478ac8355c9
+SHA256: 656e45c88391ba505b00a8fe9edc78dd31735f70676d7000074620f837fe6be2
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.anilaunchprefs
+Name: anilaunchprefs繁體中文化
+
+Package: com.axcvd.batterynotchprefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.batterynotchprefs_1.0.1_iphoneos-arm.deb
+Size: 1610
+MD5sum: 25061fbb35c8a0c75be69bc6459cdc83
+SHA1: 183bd9d9faaa52ab495640f6039df11eb7bd882e
+SHA256: 9321e61ad2d3df8736a8c61e49a919791d89aa08f96280fdbd0b83d0d0dea8e9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.batterynotchprefs
+Name: batterynotchprefs繁體中文化
+
+Package: com.axcvd.batterypercentxprefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.batterypercentxprefs_1.0.1_iphoneos-arm.deb
+Size: 1624
+MD5sum: 7bef33c2ccb3c9180b6002591bdb383c
+SHA1: 5283b999427c0b51f6e9c2e59754096f9523413d
+SHA256: 5009abe201d84b80b746f73b0f4ecd8c7fd612b9be9c83ab8e9a1b4543ec3ad9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.batterypercentxprefs
+Name: batterypercentxprefs繁體中文化
+
+Package: com.axcvd.cbprefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.cbprefs_1.0.1_iphoneos-arm.deb
+Size: 1686
+MD5sum: b3c7fa84dbf82ac4ee27b0d36f95e300
+SHA1: a8235061cbad3077707c549f5199485ce4c8b56b
+SHA256: 2000a3117e04f3f3f2e498728e431e5cf6a153ba3aa6803741e913d7e3f7b612
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.cbprefs
+Name: cbprefs繁體中文化
+
+Package: com.axcvd.certprefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.certprefs_1.0.1_iphoneos-arm.deb
+Size: 1248
+MD5sum: 05011cbfe2dd751f4be31d5ef42b0370
+SHA1: e738ef260f7a146e0bfa5c1d3eeb9b8a128a7e7d
+SHA256: e260137be51b92f81f8290da08b41f447f903c13a8af827b20a1abaf7b1c42f1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.certprefs
+Name: certprefs繁體中文化
+
+
+Package: com.axcvd.iThemer
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.iThemer_1.0.2_iphoneos-arm.deb
+Size: 2144
+MD5sum: 78649665bf4841d4d79c0193fc591019
+SHA1: b8ee0c391bf731f090405194b0c2783671dc79dc
+SHA256: facade825f8ebb48d946e129dcda7b6af878ce60a569c08fca8e3125364bba95
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.iThemer
+Name: iThemer繁體中文化
+
+Package: com.axcvd.sawprefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.sawprefs_1.0.1_iphoneos-arm.deb
+Size: 1258
+MD5sum: 38899bdd598cb46aead25bc8ec32344f
+SHA1: a54ab134bd354cc80a47e2b529f3ba55bc325c5a
+SHA256: 43bb22bd382e5a593212dcd8a8a4cb40efbee6aadd04aa771ad83ab8209fee9e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.sawprefs
+Name: sawprefs繁體中文化
+
+Package: com.axcvd.shuffle
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.shuffle_1.0.4_iphoneos-arm.deb
+Size: 2356
+MD5sum: f5b0f56bd3a29c8d704afe6d46256d02
+SHA1: 329b37d5aeb2643f240cc5545ea0e1431ee6e4a1
+SHA256: aa0c51761c717d171d9c50a7475295389ec7b29ed278c322e86c0a0dd59ce2f3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.shuffle
+Name: shuffle繁體中文化
+
+Package: com.axcvd.snoverlaypreferences
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.snoverlaypreferences_1.0.1_iphoneos-arm.deb
+Size: 998
+MD5sum: c98643005a32cbc1f9909bbca3141755
+SHA1: 6ad0e49aee55bd1908e3971277566e067a58dddb
+SHA256: 8952419f229099530941f30b180a1f7269840f2afb9a4f604b93d603ef0d5683
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.snoverlaypreferences
+Name: snoverlaypreferences繁體中文化
+
+Package: com.axcvd.tinybanners2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.tinybanners2_1.0.1_iphoneos-arm.deb
+Size: 3126
+MD5sum: 324b7610b93ebc36ca1a0bc13163d363
+SHA1: c980875c3451ccc36df07610f73c1875313da296
+SHA256: 78d0733d2955f9c9b7f3873ee6daae58cbc799f9e4c5c048a7a7cfb53cc83297
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.tinybanners2
+Name: tinybanners2繁體中文化
+
+Package: com.axcvd.unlocksound7prefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.unlocksound7prefs_1.0.1_iphoneos-arm.deb
+Size: 1516
+MD5sum: ffc1e10fb9fb9a3e43abe0bbbf272c40
+SHA1: adf03940783bcfc1eab54e755d09b23d4719bbda
+SHA256: a46ca0a451440dae2d95f994ef55dc2248c4d315f7d2321c296a6473fe61e729
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.unlocksound7prefs
+Name: unlocksound7prefs繁體中文化
+
+Package: com.axcvd.voicechanger
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.voicechanger_1.0.1_iphoneos-arm.deb
+Size: 1876
+MD5sum: 1484904f00569eee3180dca326dd4237
+SHA1: b836b1b806b348babaeed823ce799d42784b0b4f
+SHA256: a43b1c56349b3282d9828ea57657b54bc4d0b026e39839b5c07e4aae7b1b2551
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.voicechanger
+Name: voicechanger繁體中文化
+
+Package: com.axcvd.youtubetools
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.youtubetools_1.0.1_iphoneos-arm.deb
+Size: 2060
+MD5sum: 26325f2db93373d5f7a5eff14333a158
+SHA1: acab9d876118c7c357041e14f269e27dac4720f5
+SHA256: e7539cc1e5de3edd4433ebb25be2a35374aa465d338f2ebdd63d3fa919e74c61
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.youtubetools
+Name: youtubetools繁體中文化
+
+Package: com.axcvd.BetterCCIcons13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BetterCCIcons13_1.0.1_iphoneos-arm.deb
+Size: 1618
+MD5sum: b5ebc16ddaaceb8a4451596b9f94e83e
+SHA1: bbfa1213804c13882d95fd4540c43765dd8f8be3
+SHA256: 139db45f643067634485a58e3ef8f4e9e8c32116e51b15d645ffebb2784fc332
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BetterCCIcons13
+Name: BetterCCIcons13繁體中文化
+
+Package: com.axcvd.ColorBanners3Prefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ColorBanners3Prefs_1.0.1_iphoneos-arm.deb
+Size: 2766
+MD5sum: cdacc0409560075a838fdef73cd4753d
+SHA1: a3e2c7fdbd9c08a4ff2056123e6c37e1ec831e5d
+SHA256: e41e58a5fdd0b514775f10c6bdd25ff976d616fdf74e013c5e60be00063c7034
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorBanners3Prefs
+Name: ColorBanners3Prefs繁體中文化
+
+Package: com.axcvd.PencilChargingIndicatorPreferences
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.PencilChargingIndicatorPreferences_1.0.1_iphoneos-arm.deb
+Size: 2670
+MD5sum: 6a03a12e78bf824bdfb4aa418f992845
+SHA1: efde7ce44431d8b06ae65b38f2c7bb9d68860444
+SHA256: a09e2f87f152495667ee0e1c7241e3a238675cc5ea3f92d7a5ca5699bf0fdb9c
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PencilChargingIndicatorPreferences
+Name: PencilChargingIndicatorPreferences繁體中文化
+
+Package: com.axcvd.Sylph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Sylph_1.0.1_iphoneos-arm.deb
+Size: 1428
+MD5sum: b23a1c5a199fcdd6153ff2f803a9f5bb
+SHA1: ff8a607483759fbec61c25e15ccd22e4e1286a74
+SHA256: 7c4b3f1ee54f8eb8f9d2711872c115410074d52ec6ad09f04cd8132bc9b82ce0
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Sylph
+Name: Sylph繁體中文化
+
+Package: com.axcvd.Blots
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Blots_1.0.1_iphoneos-arm.deb
+Size: 1502
+MD5sum: 7099f83176413dd256e3597236dd645c
+SHA1: 833289fa50cc36774a269e88fa3420326b7138a7
+SHA256: 8fa7586c1ff831be7b9404275027427ff9c0efd0cb2ea8aab242acf96c1e97bd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Blots
+Name: Sylph繁體中文化
+
+Package: com.axcvd.AquaPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AquaPrefs_1.0.1_iphoneos-arm.deb
+Size: 2136
+MD5sum: 3aae24aeb512aad5b5da803bc6dab264
+SHA1: 12a7457686c6efa666309492c99867567dbee87b
+SHA256: e6d49e2478e2bb66657244721e023be97b737412b793ac3e8c319df723d56179
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AquaPrefs
+Name: AquaPrefs繁體中文化
+
+Package: com.axcvd.ComplicationsPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ComplicationsPrefs_1.0.1_iphoneos-arm.deb
+Size: 1264
+MD5sum: 4f52c64312b4c2997283a65d596dde21
+SHA1: f0cd11e4075e72f6760c7cb6f154ee369aab28a0
+SHA256: 3fd20ec641cb410abc59778545ee67532ae51aa47cf7eeb8bc50ead98cfe95f2
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ComplicationsPrefs
+Name: ComplicationsPrefs繁體中文化
+
+Package: com.axcvd.TuneSettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TuneSettings_1.0.1_iphoneos-arm.deb
+Size: 2326
+MD5sum: 265ed27031413be6774b34599d5efd2a
+SHA1: 47984e01738906ebc3d3178673bd89c77ad7bd9a
+SHA256: f566fbc7e36498961f17400244cb3dbf58164ff1abb1f152555732669aded7ea
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TuneSettings
+Name: TuneSettings繁體中文化
+
+Package: com.axcvd.QuickLSPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.QuickLSPrefs_1.0.1_iphoneos-arm.deb
+Size: 1486
+MD5sum: 9e6f93c64de1a2b689185ea905980009
+SHA1: fb1a727743abd84926c5759b1ac39645619acd7e
+SHA256: c56b9a99a015b052549ec599b9123c7be4454a69026829a857585a30f391dfad
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.QuickLSPrefs
+Name: QuickLSPrefs繁體中文化
+
+Package: com.axcvd.AppTic
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AppTic_1.0.1_iphoneos-arm.deb
+Size: 1516
+MD5sum: 047d93fbe5324a0c78b6cdd975af9abd
+SHA1: e593eb5858b6c4967f71c1610f714f4fcbc958c8
+SHA256: b803bda8f405ea009010138044b3ac05ebd10a74e66c710a5fdd86df5cd7a03a
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AppTic
+Name: AppTic繁體中文化
+
+Package: com.axcvd.BlueFinderPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BlueFinderPref_1.0.1_iphoneos-arm.deb
+Size: 2324
+MD5sum: 96992e8f74132dc7e88ab81da8d81778
+SHA1: 6121a6c53017c52f811163dfdfa5d72aad626212
+SHA256: 4ab1af430d23b0f8b67c40b6976d03f019373e8f7fe485e7fd9672766652fed9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BlueFinderPref
+Name: BlueFinderPref繁體中文化
+
+Package: com.axcvd.SmearOff
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SmearOff_1.0.1_iphoneos-arm.deb
+Size: 1758
+MD5sum: 3cd65cc6804828803733e3bd787d452c
+SHA1: 3e311f02ccad37ab2224522c7c91da2eabeb9b74
+SHA256: 2055c3d407be2c6fd4895fcc2487b7f54b89719706cede517a6ef825fb5ae2f9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmearOff
+Name: SmearOff繁體中文化
+
+Package: com.axcvd.chargingbubbles
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.chargingbubbles_1.0.1_iphoneos-arm.deb
+Size: 1182
+MD5sum: 256808a6e30f6cd2889cb4f007ae397e
+SHA1: 30f6870ba23d81f2be1ecbe1f85c1103408d2967
+SHA256: 62e6b8f0ae1a581eb336dc09aeb22484178d29ec1bdcf7f87455a1675c351bb5
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.chargingbubbles
+Name: chargingbubbles繁體中文化
+
+Package: com.axcvd.HideStatusBarItemsPro
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.HideStatusBarItemsPro_1.0.2_iphoneos-arm.deb
+Size: 1414
+MD5sum: 4c449c61d26dbd1f5317e9d089c03a06
+SHA1: cfd929cc25e35a973efcbd28ac5ff7cc97bbf77a
+SHA256: 9d849ee7fc912f043cf9b7e079e6a9614c4147ed29bcf76cfab662529248b9f3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HideStatusBarItemsPro
+Name: HideStatusBarItemsPro繁體中文化
+
+Package: com.axcvd.StatusModifierLoader
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.StatusModifierLoader_1.0.1_iphoneos-arm.deb
+Size: 1890
+MD5sum: 221008ae8fab1cac8f64236cffcdd81f
+SHA1: 3f104172c79645f760a799b6c52ae0c6d64c4ba1
+SHA256: d565122a34181910a479fdf234371c355b7fe7710926e5aa083b9341472f73a1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.StatusModifierLoader
+Name: StatusModifierLoader繁體中文化
+
+Package: com.axcvd.VolFlash
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.VolFlash_1.0.1_iphoneos-arm.deb
+Size: 1656
+MD5sum: 546d0f4507a953a679c60ac14594eb01
+SHA1: 9d40e0b5a6d28b3664155df99e9f4e613a1e4559
+SHA256: 1c240a5506b4dc3830d870281829dff500f36aba10f650f3293af092d3ff9d50
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.VolFlash
+Name: VolFlash繁體中文化
+
+Package: com.axcvd.KillBackgroundSettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.KillBackgroundSettings_1.0.1_iphoneos-arm.deb
+Size: 2608
+MD5sum: 9050077d291d233b3821c413ad4c813f
+SHA1: fa8601862ad08295563be3d923947581abd283b5
+SHA256: 598e5461b50754626b48009c60ba6ae1e1c9ae8fad3e7d44d47e4053d54fb341
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KillBackgroundSettings
+Name: KillBackgroundSettings繁體中文化
+
+Package: com.axcvd.EasyAccess
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.EasyAccess_1.0.1_iphoneos-arm.deb
+Size: 2908
+MD5sum: b149fc0fb368ee895c2dab2fdcdca68a
+SHA1: 7024000e10ff310a0493ed9dd051220ff541aa6d
+SHA256: 66dbc183e395af1f1d32a01a1d7b970843ac4bf0c6be4d6e3203efa34cafc067
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.EasyAccess
+Name: EasyAccess繁體中文化
+
+Package: com.axcvd.appshortcut2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.appshortcut2_1.0.1_iphoneos-arm.deb
+Size: 1534
+MD5sum: 020b29bfea4e3b1f86ed8d35f623ffe5
+SHA1: 2edb2ea2484ca7cbd6e18b7ad756ee2878ea9631
+SHA256: 76ae760696c82ef0b503b7016f3ac1acf48a3a02af5ea2af28f7fe03e8eaf758
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.appshortcut2
+Name: appshortcut2繁體中文化
+
+Package: com.axcvd.CustomLock2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CustomLock2_1.0.1_iphoneos-arm.deb
+Size: 1694
+MD5sum: 3382e402240f3b740fd3494520f1fce3
+SHA1: da0c85aac7c59e4b7b3cc93ed3206c2a86537b99
+SHA256: 7578ca10bc9df91fecee7dccac9b84d95893814b59bd855b111360cf7a9d4424
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CustomLock2
+Name: CustomLock2繁體中文化
+
+Package: com.axcvd.ShaderPreferences
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ShaderPreferences_1.0.1_iphoneos-arm.deb
+Size: 1228
+MD5sum: 91668bc235b6e27cffe104db9b459f2e
+SHA1: 7299ce833d7c0f72d3b4977a5f0e0edfc198ad82
+SHA256: ae01728dbc7fb73b6a029d30d14348e3046b598663920337542cc86033ee8b0f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ShaderPreferences
+Name: ShaderPreferences繁體中文化
+
+Package: com.axcvd.abprefs12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.abprefs12_1.0.1_iphoneos-arm.deb
+Size: 2040
+MD5sum: fba99cb2e1dff2e7c93b971bcde18960
+SHA1: 3f3f4439e276eec483735a943bce3a906aa00e57
+SHA256: e1797dfd6dedf8fac865f6c2d628365db607c7784e518a2f9d08fc0ba4de7ca3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.abprefs12
+Name: abprefs12繁體中文化
+
+Package: com.axcvd.MagmaEvo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MagmaEvo_1.0.1_iphoneos-arm.deb
+Size: 2448
+MD5sum: 66435c2420d9225665cb800e7a5b343b
+SHA1: 6c8d80d377de7168e551cbad4061aa70108b4b90
+SHA256: 3c59b66cc05ac89348efe4342bf540ea280436222971c976ee82155b4bce3bf7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MagmaEvo
+Name: MagmaEvo繁體中文化
+
+Package: com.axcvd.AutoUnlockX
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AutoUnlockX_1.0.1_iphoneos-arm.deb
+Size: 1422
+MD5sum: b7a6170a2a027dafc82387d26718dfbb
+SHA1: a796ba73a75d91f971935cd440eb8eab011bcf79
+SHA256: 0c2c51a91052e4f2584590477971981de36b5e5fb267df3a9f8f92d557f4c67f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AutoUnlockX
+Name: AutoUnlockX繁體中文化
+
+Package: com.axcvd.Cask
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Cask_1.0.1_iphoneos-arm.deb
+Size: 1348
+MD5sum: 5e986ebb6877dab976e95146790110fd
+SHA1: ded620c3477cdf0e313044dc06ead5bfc6a90b69
+SHA256: 4fbdaf415bc5b40c2811e319656c54bd7905590e4df8f3e8ad79b82a1ed7e846
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cask
+Name: Cask繁體中文化
+
+Package: com.axcvd.frontpage
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.frontpage_1.0.1_iphoneos-arm.deb
+Size: 2574
+MD5sum: 441e916c7ee2d70b649df5ab12d06a49
+SHA1: 7862ff19e990fdea9ae59076ba2a988e15d0c2e2
+SHA256: 8dc410b713888745d5087078bc4b08050584233691d5e798c05513f9eaa473f8
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.frontpage
+Name: frontpage繁體中文化
+
+Package: com.axcvd.RealKeys
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.RealKeys_1.0.1_iphoneos-arm.deb
+Size: 1320
+MD5sum: 944f80a49015ad07bb073892b1c0043b
+SHA1: d69c02156ab52bab1e4ce2b82ac9da79ca74df91
+SHA256: e47da809d4af067ecb5012b5af47dc17a83493ce0b419076c4f281f89d8c4b9a
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.RealKeys
+Name: RealKeys繁體中文化
+
+Package: com.axcvd.LockApps
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LockApps_1.0.1_iphoneos-arm.deb
+Size: 1112
+MD5sum: 75ef844299e9616b315a82304ad1f44d
+SHA1: 02813bbff8172b31c126dbda78f5044d9b34bcb1
+SHA256: 12351430c7a17bf0c4da8ba5148836b3971638bf6f1ea2b5fd41db1dc811ba32
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LockApps
+Name: LockApps繁體中文化
+
+Package: com.axcvd.SmartNetwork
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SmartNetwork_1.0.2_iphoneos-arm.deb
+Size: 2368
+MD5sum: e2aa7669990cc0b9ee4892e496ee6846
+SHA1: 9a44d2f705876b3d676fad4c274b462202861842
+SHA256: 4db6d5b93280dc76448586f11f919c593285985f4765fecc9dd9bc5efe50d7a1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartNetwork
+Name: SmartNetwork繁體中文化
+
+Package: com.axcvd.AutoScroll
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AutoScroll_1.0.1_iphoneos-arm.deb
+Size: 1222
+MD5sum: c656d8e5ba9cab75ce7c35dfe7078563
+SHA1: a8061ab8004f2375b21e29c8d49645c90bf74872
+SHA256: 7bcc173f50e64df28975c18f1594c4828aa434b25bfb8f486bdbbc3449ae120a
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AutoScroll
+Name: AutoScroll繁體中文化
+
+Package: com.axcvd.TweakConfigurator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TweakConfigurator_1.0.1_iphoneos-arm.deb
+Size: 1352
+MD5sum: 7c16a7e8afc71b8833308e55a37d958a
+SHA1: 3a5f2715d997fd7356f51fdb8a3404ab99d0243d
+SHA256: d98f216b5b576d58fdef62ac9963bc53da39146a352891fd5804788846c656fb
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TweakConfigurator
+Name: TweakConfigurator繁體中文化
+
+Package: com.axcvd.SafariPlus
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SafariPlus_1.0.2_iphoneos-arm.deb
+Size: 11728
+MD5sum: 327b434ff1913c6451ec20fa36b59381
+SHA1: e69c9939a20d5d151cc5cc1312395b3ec4a552aa
+SHA256: 7f631468b42a51b497315ff7d94c19561d8011d81e41387322342a02e7558784
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SafariPlus
+Name: Safari Plus繁體中文化
+
+Package: com.axcvd.BadgeBar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BadgeBar_1.0.1_iphoneos-arm.deb
+Size: 1610
+MD5sum: 97511d95e903dae77a0ca2710d7a4018
+SHA1: 1ce689f9ad7392cebe0abba00229caade8718331
+SHA256: 790cb13bd785434811615ca07329e3b6c267b5970bbe567bc5158b10a22a469d
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BadgeBar
+Name: BadgeBar繁體中文化
+
+Package: com.axcvd.Sareth
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Sareth_1.0.1_iphoneos-arm.deb
+Size: 2542
+MD5sum: a257a8b9932abdf1017fc1f8a7050af6
+SHA1: 77bb961ed3d982e65f32ff709b5204f6d9c51a4b
+SHA256: bca5b59b57cc2fc279cb7364276c7860f873ba4c89b0ec0881faa0de2f3dde85
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Sareth
+Name: Sareth繁體中文化
+
+Package: com.axcvd.LINEExtention
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LINEExtention_1.0.1_iphoneos-arm.deb
+Size: 2526
+MD5sum: 56ac4d6bc421862b36ea127d7d66d2a1
+SHA1: 6f77567dd2383e889c28965d709d6a11010c6b42
+SHA256: 3ebb165b43839a0c8e8d37ff69b03d48bf74c6ee4b50418bafe3e651927d6239
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LINEExtention
+Name: LINE Extention繁體中文化
+
+Package: com.axcvd.ColorFlow5
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ColorFlow5_1.0.1_iphoneos-arm.deb
+Size: 2144
+MD5sum: defa14cd77f23f9eedd0f11388b0f852
+SHA1: fb0b0b4fd08cb69bb28b920d1a126497d5818f81
+SHA256: 106b614bf7c13f47cfd8e7128f9db239701ed8318598b0c80cc1190184d11192
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorFlow5
+Name: ColorFlow5繁體中文化
+
+Package: com.axcvd.DigitalBattery13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DigitalBattery13_1.0.1_iphoneos-arm.deb
+Size: 2440
+MD5sum: 6069fe830d7c91592d7e66d7f02a1e96
+SHA1: 742d1f548be0a181b80e5bdcd15c371be25b7ebd
+SHA256: f7da64173b1c2f955bbd705cddb5482510a116975751424a96efb47d3c9d1304
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DigitalBattery13
+Name: DigitalBattery13繁體中文化
+
+Package: com.axcvd.PureFocus2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.PureFocus2_1.0.1_iphoneos-arm.deb
+Size: 1356
+MD5sum: f797b2bff9edc326801e27166fb6e8f6
+SHA1: 5e442260b5d53ce903a0df6ae510584a438b1a09
+SHA256: 37a5da9c8604d70786c7beea21430d787cb6ab74fc0577a56d9c4210f8f03055
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PureFocus2
+Name: PureFocus2繁體中文化
+
+Package: com.axcvd.Flowic
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Flowic_1.0.1_iphoneos-arm.deb
+Size: 2238
+MD5sum: 99d1c6de1bf0829181dfdf068fea4c1d
+SHA1: f5019d2d23bdfdfc704e58dcf74c5563f4960c01
+SHA256: a6d32d8c99af88d586b5c2e54a858da4adf2eb01424206d334bc53502a1cbaa3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Flowic
+Name: Flowic繁體中文化
+
+Package: com.axcvd.VolVibes
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.VolVibes_1.0.1_iphoneos-arm.deb
+Size: 1404
+MD5sum: fe43b90019481e55b0b1a2d38b7220c1
+SHA1: 35f0466e68b5593a1dd3d3e329928fcc511ae2c5
+SHA256: 666bdc21104df86e5e363912eaa53d1b9a6cce19bf08016f08679ef3e3749e1f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.VolVibes
+Name: VolVibes繁體中文化
+
+Package: com.axcvd.FloatyTab
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FloatyTab_1.0.1_iphoneos-arm.deb
+Size: 2106
+MD5sum: 3ae630789889ad4dadbf74c5c270134b
+SHA1: d7041bd88fae828cd2b1e5c60a2cd4671e374353
+SHA256: e7bd0eefbcbcc21638857c1d67b16195830b8f8fcc9ae09f953a06acab947782
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FloatyTab
+Name: FloatyTab繁體中文化
+
+Package: com.axcvd.Harbor3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Harbor3_1.0.1_iphoneos-arm.deb
+Size: 1618
+MD5sum: 3ddf73881d771e6a396eb086753e1d3d
+SHA1: 207f7092e9659c3aba3a7e931412d911a5f887e6
+SHA256: a29a3052bab0f36f8e4251799e997c1e4bc03e514af1755c8e679470d5f33292
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Harbor3
+Name: Harbor3繁體中文化
+
+Package: com.axcvd.SetCol
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SetCol_1.0.1_iphoneos-arm.deb
+Size: 1330
+MD5sum: 15708e5c877f4a666b71592861dd1878
+SHA1: ab8b845861ef5060ec0b6183c94bf540aee160fe
+SHA256: 19b1ecfd9b876c577f13bdb4133d4f8b76bec38caf244cda8ce7eae9b1afa7a7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SetCol
+Name: SetCol繁體中文化
+
+Package: com.axcvd.FlyJB
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FlyJB_1.0.3_iphoneos-arm.deb
+Size: 2364
+MD5sum: ce570889851822c693a6331dd5100e99
+SHA1: 2463b48bcd5ceef3498faabcc2e7eff8801e6cf9
+SHA256: 4f22eb830525168ca5ffa8bf1226f9e66b61698cdb0c695f4fe032db27efbd55
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FlyJB
+Name: FlyJB繁體中文化
+
+Package: com.axcvd.ByeHomeBottomBarX
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ByeHomeBottomBarX_1.0.1_iphoneos-arm.deb
+Size: 2332
+MD5sum: b8c65ac28421246c85a5fe7e69d459c5
+SHA1: fba98dd02277193d14fa16d8fa776dadcd264227
+SHA256: 2a410a9a7939b284a3daa0b67074925718050b352e6d9a7d44beb1ff5b98787f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ByeHomeBottomBarX
+Name: ByeHomeBottomBarX繁體中文化
+
+Package: com.axcvd.Dockify
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Dockify_1.0.1_iphoneos-arm.deb
+Size: 1510
+MD5sum: 12956b095833d52b2360d4edd25a1223
+SHA1: 51f50a1a2cdca6c19f4e27bf41261bf09ce17010
+SHA256: 5c59f3e2008da9607c6d24e8e288695ce26d02bc0ae64cd63750aceb6dca8e21
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dockify
+Name: Dockify繁體中文化
+
+Package: com.axcvd.AnimationsBeFastPlus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AnimationsBeFastPlus_1.0.1_iphoneos-arm.deb
+Size: 2618
+MD5sum: 0271fb69cd66061b85feeccf3b3c32a8
+SHA1: b279e49674db0be49de2172d053fae6cae30de32
+SHA256: c315fe390ee2088f9417b04075799a190de77e6e1d1aeacf04357831c8792b86
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AnimationsBeFastPlus
+Name: AnimationsBeFastPlus繁體中文化
+
+Package: com.axcvd.LINETools2
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LINETools2_1.0.4_iphoneos-arm.deb
+Size: 3912
+MD5sum: 7f02a8a530226d927c0e5c31800cfb00
+SHA1: b8db8031c1e6a014fc7ef42640c632638a5aa330
+SHA256: 3010ecc9ff207f8e2565e6ee052627c5638b475a888beeb0fefa2846ead037cf
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LINETools2
+Name: LINE Tools2繁體中文化
+
+Package: com.axcvd.Cask2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Cask2_1.0.1_iphoneos-arm.deb
+Size: 1436
+MD5sum: 613c1aa66ffcf06c0081f0f293f3b736
+SHA1: a853e87ed709e76bf2293b794c0463b452e32fad
+SHA256: ed253f4986661a41d72e6c6d2328cb0f206bbac6ac26729d4a01e81e38247577
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cask2
+Name: Cask 2繁體中文化
+
+Package: com.axcvd.ColorSystemPro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ColorSystemPro_1.0.1_iphoneos-arm.deb
+Size: 1526
+MD5sum: 466b22bb62a34260f3bd577e7ce4ba7f
+SHA1: cb285f154dda72f744eb9eae626ead72eb9c7a0a
+SHA256: 3969e3bfff54b1d190c462e58b5faa8103bc5d021a0a0eafc80831311f315833
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorSystemPro
+Name: ColorSystemPro繁體中文化
+
+Package: com.axcvd.BrightnessEvents12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BrightnessEvents12_1.0.1_iphoneos-arm.deb
+Size: 1750
+MD5sum: 3630dfb1ec90f690bcf7c3468e1dbe2f
+SHA1: f43f46fbeb40924cf89f74ee51b4ce1b64d66a65
+SHA256: b135c30eb1d9cb6984f008c56aeef018fe9b32de7818c7f5a35304e5c63e7e57
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BrightnessEvents12
+Name: BrightnessEvents12繁體中文化
+
+Package: com.axcvd.Springtomize5
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Springtomize5_1.0.2_iphoneos-arm.deb
+Size: 11206
+MD5sum: 6b3486b91123563fd0f5e702a27b9449
+SHA1: 7baf16263f42e3c47cbf466baef4e4da398461a7
+SHA256: 3c72a06f47f86b32c51e500dd4a69738bed644e0bb08a1fbbf5f3ea1ea0a31ff
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Springtomize5
+Name: Springtomize 5繁體中文化
+
+Package: com.axcvd.MyHapticSwitches
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MyHapticSwitches_1.0.1_iphoneos-arm.deb
+Size: 1982
+MD5sum: 15c62f3577f21a8a183f3249a7dfec89
+SHA1: ebd87ac6c904f6338073530299baf11a4a1fe849
+SHA256: 03bbcb7a6aa6636822dea425af423f5da9691b90302d2fca90fb7884256542b9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MyHapticSwitches
+Name: MyHapticSwitches繁體中文化
+
+Package: com.axcvd.Darkmode
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Darkmode_1.0.1_iphoneos-arm.deb
+Size: 1552
+MD5sum: 55c16c82a6a60c86600f05558ecb49d7
+SHA1: 06ce45fd5e5f3cb2f43b28b126d068e67d03594f
+SHA256: daea6e6fa3cb043203cf52af48aec1d15aab68248a5225eceea9040a02df4726
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Darkmode
+Name: Darkmode繁體中文化
+
+Package: com.axcvd.MessagesXI
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MessagesXI_1.0.1_iphoneos-arm.deb
+Size: 1112
+MD5sum: 5495d36497b0921ee4516f92cd8efe16
+SHA1: 0d7389d3b259a2040f65944633fcd8898be2c70b
+SHA256: 648efcf35f8e7b0c725c3cd2ddaa9bde92765a9eb91dcb94d4c109a2dda819a4
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MessagesXI
+Name: MessagesXI繁體中文化
+
+Package: com.axcvd.Ability
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Ability_1.0.1_iphoneos-arm.deb
+Size: 1360
+MD5sum: 85217d17e8a6f276bddac8c3c53ef955
+SHA1: 9fa9db2cd39b1300d188d2fd907f4036c5745d96
+SHA256: f0b4db49bf989dfe7cdb542fe026d09da15f233cc081c21688fe8ecad92a7b18
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Ability
+Name: Ability繁體中文化
+
+Package: com.axcvd.RoundedDocklite
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.RoundedDocklite_1.0.1_iphoneos-arm.deb
+Size: 1406
+MD5sum: 023229efdabc436fb4c3a5c7e2a39bcc
+SHA1: 0102e4d8c1c96a5d3b991efb7b67227e0ccc635f
+SHA256: feb3edbb1132f8c3bc8ed21f1f858ac2305c3aee93dbd4b22a064c950b2da4ea
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.RoundedDocklite
+Name: RoundedDock lite繁體中文化
+
+Package: com.axcvd.HalFiPad
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.HalFiPad_1.0.1_iphoneos-arm.deb
+Size: 1718
+MD5sum: 2c77d6eab897ea29c73b92b6017b6d66
+SHA1: e577d04801af251f6b2cfd14063a26cc8894b4da
+SHA256: 1d7f6ccaf1b521aebe543bcf3388d9143db7b6797227673a55c939dea4db6caf
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HalFiPad
+Name: HalFiPad繁體中文化
+
+Package: com.axcvd.ChatSpeaker
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ChatSpeaker_1.0.1_iphoneos-arm.deb
+Size: 5386
+MD5sum: eec8107956afb58c6a16cdbbadf1eac5
+SHA1: 6210aca38a000d1a2fab180aef9956d3710db465
+SHA256: 6af6d5f2baf7c8893dd2c21067f05f44cad00f0badd8cfb1d0c21d87a62d19aa
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ChatSpeaker
+Name: ChatSpeaker繁體中文化
+
+Package: com.axcvd.Frame
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Frame_1.0.1_iphoneos-arm.deb
+Size: 1398
+MD5sum: f2181c1bc08fe80552e4f7f35a9eb877
+SHA1: 677e2ef83103eecb9633798e70a785580985b2cc
+SHA256: ca4abbf24532203fd1ab7dba43444ea3338198a8ea6043a68f66a341559f87e7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Frame
+Name: Frame繁體中文化
+
+Package: com.axcvd.Himiko13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Himiko13_1.0.1_iphoneos-arm.deb
+Size: 1182
+MD5sum: eff40a8a5f49e5a74d2ff9fe220149f2
+SHA1: fecf410b1d56f4cb09805fcddabbdeff37ca1e1b
+SHA256: 869e292abb8406272cdefdc57f8c540024486043a10b10e8da040c23aaee76ad
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Himiko13
+Name: Himiko13繁體中文化
+
+Package: com.axcvd.FBSpNOsor
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FBSpNOsor_1.0.1_iphoneos-arm.deb
+Size: 4974
+MD5sum: a93aa33aea9bd280794f83f76b0d651d
+SHA1: e0ef138eb52de2557d5555a54b164245c78c0f05
+SHA256: 4fece8047d18aafa8248e00610c7c949ba4f801c99ea8f4ba528866919751f71
+Section: Tweaks
+Description: 作者已下架在網路上找到的備份檔
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FBSpNOsor
+Name: FBSpNOsor
+
+Package: com.axcvd.Slices3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Slices3_1.0.1_iphoneos-arm.deb
+Size: 1696
+MD5sum: b376488eec79ec645a7aa89f69e7b6f8
+SHA1: cf3bf6cbbf58f76f408cfab96ebeb5480695f5af
+SHA256: 821049ee313404078e84de1d4861de38c0db4733442f06a6b55ea5022e842fdb
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Slices3
+Name: Slices3繁體中文化
+
+Package: com.axcvd.Slices2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Slices2_1.0.1_iphoneos-arm.deb
+Size: 1714
+MD5sum: dee35818b11cd56d6c3f7cada4ba99bf
+SHA1: f883dcbb28a31d1fc9d072f086495e2e7be853e8
+SHA256: 4d8e4773ba5cde05e7a3bc1825d3d6af1e8c511ae4d4d6adcc9dec39f2a44773
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Slices2
+Name: Slices2繁體中文化
+
+Package: com.axcvd.MobileGoose
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MobileGoose_1.0.1_iphoneos-arm.deb
+Size: 1898
+MD5sum: 9ed115153e3f5db89b9434805bf6170b
+SHA1: fa0c15c4cd9d0d8111723058beae7a47e63ccb8a
+SHA256: fc6238e1670cc0efe6df0fe4055887f164e0fdb2c586f02126eaf86d1af7c458
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MobileGoose
+Name: MobileGoose繁體中文化
+
+Package: com.axcvd.9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.9_1.0.1_iphoneos-arm.deb
+Size: 276952
+MD5sum: c8848e98ec9059571b62a1eb7e5ecd3b
+SHA1: 745fb1bac7cbdb199caee5981c7e4d8ac4ff403a
+SHA256: b81a5cedd266e7900368226de0cce319e9d3e621a96eb1a15cc4bd998d3e06bf
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.9
+Name: Colored_Lock鎖屏的小鎖頭動畫
+
+Package: com.axcvd.10
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.10_1.0.1_iphoneos-arm.deb
+Size: 419456
+MD5sum: 69e5f4298345ffbb62cd100c051ae39b
+SHA1: 87c5e76052bf60005832c7e2ecbd14a1295d87ff
+SHA256: 705f3931f756ff902059740cb7d72c2205d722a647001fcfcc5d7123f69c74d8
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.10
+Name: Duck鎖屏的小鎖頭動畫
+
+Package: com.axcvd.1
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.1_1.0.1_iphoneos-arm.deb
+Size: 237264
+MD5sum: e5a4983ff08e23d03fe27f0a24043ecb
+SHA1: 6005e2c8251b2561978549a975995fc436660888
+SHA256: ae04148695c2942e8249d2fb1644948d1ce85d0fb677e358465900c5bd7b3c26
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.1
+Name: Face ID鎖屏的小鎖頭動畫
+
+Package: com.axcvd.11
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.11_1.0.1_iphoneos-arm.deb
+Size: 168376
+MD5sum: 39cd06f04c26348bfccba4685a03b9c2
+SHA1: ed473c53a6ce78b6d57492a7e483aa91997a76b5
+SHA256: fd14a543009ab10fed46b8c7ad1e0ba4db52cd361f47191587bf3dad9ed2dca2
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.11
+Name: Face_ID_White鎖屏的小鎖頭動畫
+
+Package: com.axcvd.12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.12_1.0.1_iphoneos-arm.deb
+Size: 82512
+MD5sum: 52ab5ec0239333660cf2ba9176997692
+SHA1: ee35a0cc51a6c661dca0ac337f79da4420b95338
+SHA256: cec9555dedcdd3ffe7c6277ee5ed9a320ec9c61e57c5b3229d576c1e40944745
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.12
+Name: Middle_Finger鎖屏的小鎖頭動畫
+
+Package: com.axcvd.13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.13_1.0.1_iphoneos-arm.deb
+Size: 1323918
+MD5sum: 33e1e5174c89625d0e14693863258d88
+SHA1: 60c0d40e88f582889a5e588067eb24f6eeab1afb
+SHA256: a93cb2e7b88f3ee0237ae839c382b05f6124f355de07bffde09a6fd7b10d6f49
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.13
+Name: Octopus.ca鎖屏的小鎖頭動畫
+
+Package: com.axcvd.2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.2_1.0.1_iphoneos-arm.deb
+Size: 255398
+MD5sum: cd3553e7f34a3df459946e040062f95b
+SHA1: 77ecb5fb7eab5bf45b015c93e225312f8857d796
+SHA256: fcb056b258eba3b1358f722ab53addb00a7d9a58428c79cba07fb115bcf1203f
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.2
+Name: QQ可愛表情鎖屏的小鎖頭動畫
+
+Package: com.axcvd.3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.3_1.0.1_iphoneos-arm.deb
+Size: 255498
+MD5sum: 4b4391d70f98b7c2b3da963e24724550
+SHA1: 294ea77ad049588048fdeb4d15f75b4703171978
+SHA256: 5db4be561cbc456f9f23ee59ec7206aba96a7c726acddf547092e7e0ae79517b
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3
+Name: QQ奸笑表情鎖屏的小鎖頭動畫
+
+Package: com.axcvd.6
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.6_1.0.1_iphoneos-arm.deb
+Size: 2978408
+MD5sum: 45b21e0e9424ac89db6aff248aa0dfc4
+SHA1: 2c895fb81f725d22198d2c9bfb6cd2244b3b5293
+SHA256: 242a80723c63b12af4a9d385e35d4e0a046d588f64ec18afeac370ba0fa2c30e
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.6
+Name: 血腥骷髏鎖屏的小鎖頭動畫
+
+Package: com.axcvd.4
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.4_1.0.1_iphoneos-arm.deb
+Size: 638040
+MD5sum: 610c231d078e3aae94ee2bb1a29f4da6
+SHA1: 576d39f70f640e7a06fc2540f3476314b6231660
+SHA256: 56e51d79642977d964aa544e1f98e73413a0756c9b8e59b8e193c8bce725e080
+Section: Themes
+Description: 原廠備份鎖屏的小鎖頭動畫
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.4
+Name: 原廠備份鎖屏的小鎖頭動畫
+
+Package: com.axcvd.5
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.5_1.0.1_iphoneos-arm.deb
+Size: 166982
+MD5sum: 6cff3d3ed25402cbf3c2a55e46bb3043
+SHA1: 280bf0a31588420c27bf4aadebd9925719448283
+SHA256: b45006a6937bbadff75a493bd85c5bec3186905f76ed2fd04fcb7357629fd5f2
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.5
+Name: 圈圈溝UI鎖屏的小鎖頭動畫
+
+Package: com.axcvd.7
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.7_1.0.1_iphoneos-arm.deb
+Size: 91298
+MD5sum: 58d334425e37e6e8fce1346d5365a5cb
+SHA1: 99f8e9b979aa3fa34418b43e67b8a945fcf9ac45
+SHA256: 13d7340961bb7b4e160141fa55f210009ba1f6880dc79a6c81746f0e7f4c778d
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.7
+Name: 誇克UI鎖屏的小鎖頭動畫
+
+Package: com.axcvd.8
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.8_1.0.1_iphoneos-arm.deb
+Size: 275010
+MD5sum: 53567a21035b1b93c7765a26738b3f51
+SHA1: d1cf81c75c1d9b9bdebf213beef72c07789a59e3
+SHA256: 5fab02cc935b41f5a4791a54e8ad15d7193f527c75ce27b8f919e997210477d2
+Section: Themes
+Description: 鎖屏的小鎖頭動畫安裝完不想用請去下載原廠備份謝謝你不然回覆不了
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.8
+Name: 鴻運鎖屏的小鎖頭動畫
+
+Package: com.axcvd.YouTubeReborn
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.YouTubeReborn_1.0.6_iphoneos-arm.deb
+Size: 2600
+MD5sum: 58713d2826774a1e772e5809e0b1ee2c
+SHA1: 75fa970495fd629d6dddc0b8f7f49e2f6308180c
+SHA256: 3e2c0bc1df75050586fb0fc98ba93307ae2c7213c039e1dfbd8a13be42cdf323
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.YouTubeReborn
+Name: YouTube Reborn 繁體中文化
+
+Package: com.axcvd.Genesis
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Genesis_1.0.1_iphoneos-arm.deb
+Size: 2822
+MD5sum: 1b8b249e6bf86ee2d105dbaca4ec9866
+SHA1: 71bef3bf3b7b274fe6e4972d500ecdb9d5000ffe
+SHA256: e3afa89a698524a7b83117252de4f8d24aa59fd4823dae3d6b926fced1604448
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Genesis
+Name: Genesis繁體中文化
+
+Package: com.axcvd.Dragspring
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Dragspring_1.0.1_iphoneos-arm.deb
+Size: 1392
+MD5sum: 8b6249abb3112f1819f5bc5c82736d28
+SHA1: f338604c6c958b4423ed0482386839694a42580f
+SHA256: 94d9b656b70f8fdb3af56c7bc2a8a5acc3815835c724ab482899b5de060a5d8c
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dragspring
+Name: Dragspring繁體中文化
+
+Package: com.axcvd.Grupi
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Grupi_1.0.1_iphoneos-arm.deb
+Size: 1534
+MD5sum: 13dbc86c1d134029c2b85c0c2355614f
+SHA1: be3ad8bbd8c4ce7e9c6d81f96e716781d4381cb2
+SHA256: b98363cf4c1eec73b73622cc9854b71f1b69520b0bd3c9693e212f028bdeb955
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Grupi
+Name: Grupi繁體中文化
+
+Package: com.axcvd.BottomToolBar-Lite
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BottomToolBar-Lite_1.0.1_iphoneos-arm.deb
+Size: 3738
+MD5sum: fe706573f00d564478dbea5e42f23ee0
+SHA1: 6f723f8a36df4c8e232a7859e9344048a3a3c604
+SHA256: afdf31ded5d6b5ff00250bfadd77d0e71102d5aa728b6e26c6e3fe05707c2e5d
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BottomToolBar-Lite
+Name: BottomToolBar-Lite繁體中文化
+
+Package: com.axcvd.NotiVibe
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NotiVibe_1.0.1_iphoneos-arm.deb
+Size: 1426
+MD5sum: e060797685996c7d0af072c9e77503bd
+SHA1: 661f70e226ebb24bc351abb1c34ff82bd383ba38
+SHA256: 810603608c9ac11eb716af00dc2acce0905fae775f8805a889e25d8335e94df3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NotiVibe
+Name: NotiVibe繁體中文化
+
+Package: com.axcvd.Axon
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Axon_1.0.1_iphoneos-arm.deb
+Size: 1894
+MD5sum: 284b18aff596cadce4391be2743b0e39
+SHA1: fca5689cae64edc69da47b7d9ee1c56e2e4e8b74
+SHA256: 7062a87c7c8aa2719b233f520080be21bf5282f67148f7ac28f4b2484e0c31fc
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Axon
+Name: Axon繁體中文化
+
+Package: com.axcvd.CPUTool
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CPUTool_1.0.2_iphoneos-arm.deb
+Size: 2284
+MD5sum: 6438600c38e6816fbadb88ecb510f609
+SHA1: f42298c58e56ee0817bccd4c1a4d956fadecc2fc
+SHA256: 5e38a8c347d65564dec8fd2302a72786cbb8dcfe3a58fa4a6995fa1fdca3aec2
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CPUTool
+Name: CPUTool 繁體中文化
+
+Package: com.axcvd.ColorBanners2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ColorBanners2_1.0.1_iphoneos-arm.deb
+Size: 1718
+MD5sum: 30d45f491e00f39f69158ee8af2f0ce5
+SHA1: 280a503d26c3bfab2d8e5dbff2b9b62a84381615
+SHA256: 5b1cd6d34b8121f6a1e22725adea512011f027149c6b239efe434350ae66f949
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorBanners2
+Name: ColorBanners 2繁體中文化
+
+Package: com.axcvd.Pokebox
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Pokebox_1.0.1_iphoneos-arm.deb
+Size: 1528
+MD5sum: d593d207c61dda6cd1f85a752aa67ac6
+SHA1: 920d1015b20618c2c56ead066a12d8157ebee5b4
+SHA256: 480dcb57931a3c621665fb3a33415375c079ba175f2801490b44f83e50a29274
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Pokebox
+Name: Pokebox繁體中文化
+
+Package: com.axcvd.Dots2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Dots2_1.0.1_iphoneos-arm.deb
+Size: 1562
+MD5sum: 90fc3b62464d4037e2c44886dbc56911
+SHA1: 2212ca2f6fd0e7a3fc96ba77037706358f0b2d43
+SHA256: f25f62e93b9dac1375f7943490ff8ec06161c64a275e913ff05d78bb9387edb0
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dots2
+Name: Dots 2繁體中文化
+
+Package: com.axcvd.AirPort13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AirPort13_1.0.1_iphoneos-arm.deb
+Size: 1850
+MD5sum: bb62bb853133c3388a7d261fa7f1662c
+SHA1: 04ddb7d6f6e515cf1d1d4a621198a3101c60928c
+SHA256: fc650a7ffb53a2c1cd2faa42f84568f0a722f46c8da4298d3ff1ef5ead8a3a2e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AirPort13
+Name: AirPort (ios 13)繁體中文化
+
+Package: com.axcvd.VoiceChangerXS
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.VoiceChangerXS_1.0.1_iphoneos-arm.deb
+Size: 2600
+MD5sum: d132317a2d80cd0855b308677b291b2d
+SHA1: 120dddc2ae035e3e762b503205d2d995786c152a
+SHA256: db71ede0de1335b24435f97432039e5d117a3dac9f981a28342626836bffa1de
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.VoiceChangerXS
+Name: VoiceChanger XS繁體中文化
+
+Package: com.axcvd.SmartTap
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SmartTap_1.0.1_iphoneos-arm.deb
+Size: 2852
+MD5sum: 5e8d8429b049213726745fc9b746f7f7
+SHA1: fbfc19c884462c4afd3f1d26bce155a05b6b855e
+SHA256: bb5d2baff0ed2761178baac690fd3b35d94e57b6c433afbc3d5ea45cddff9321
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartTap
+Name: SmartTap繁體中文化
+
+Package: com.axcvd.TransparentNotif
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TransparentNotif_1.0.1_iphoneos-arm.deb
+Size: 1848
+MD5sum: 9eb60cb0fe2b03d99e7f53dc213df8b5
+SHA1: 6b50fb8ce3aaaa8009c172391fa08714d5a85e00
+SHA256: c10099cd5b141f58f801b4bad1fce47db2913f27004d843c531115218d145410
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TransparentNotif
+Name: TransparentNotif繁體中文化
+
+Package: com.axcvd.Emoji
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Emoji_1.0.1_iphoneos-arm.deb
+Size: 66199330
+MD5sum: 63892ebbcd9f2044bc548fded01f67af
+SHA1: ef1d7540c59c5f0b41c304abf2e675716dc00666
+SHA256: e7f4bd31a41238318f333815a3953b55ab09443d75c1dbd8bc0cdeead0802d8c
+Section: Themes
+Description: 新版Emoji表情符號請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Author: iPhonejB越獄維修安全攻略 <iPhonejB越獄維修安全攻略>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Emoji
+Name: 新版Emoji 表情符號
+
+Package: com.axcvd.KeyboardColor
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.KeyboardColor_1.0.1_iphoneos-arm.deb
+Size: 1358
+MD5sum: e096cf730c6851513ebb6221a011ee51
+SHA1: fb3566d2b0b19cfc4cb625b4098c8f55014453ad
+SHA256: f03ff39c88a7fbf116cc8a19185aa5fdb4a67341c235308e850091abf8ae07bb
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KeyboardColor
+Name: KeyboardColor繁體中文化
+
+Package: com.axcvd.Scorpion
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Scorpion_1.0.2_iphoneos-arm.deb
+Size: 2624
+MD5sum: 386c9189b0e8eed9c5574539bf4899eb
+SHA1: f278db14833fbe020a261b45ca632410df380a22
+SHA256: 349ccedbe043a217c5a9576c07dc8c93d9a9bff23d8739d355a89d34d929f78e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Scorpion
+Name: Scorpion繁體中文化
+
+Package: com.axcvd.Y1
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y1_1.0.1_iphoneos-arm.deb
+Size: 71184
+MD5sum: 1ee796cbd606048ee1272c22d676a5fa
+SHA1: edb32e5c7330711bae867d4ea226beda1889e908
+SHA256: 8dd8a8e5bc3d0d48b166630dd2b7bd1eee0e4f126b701dbd08cf0ba41154d931
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y1
+Name: 死待蒙板<主題>
+
+Package: com.axcvd.Y2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y2_1.0.1_iphoneos-arm.deb
+Size: 86308
+MD5sum: eed43a928e646d30b8a324760ff12b11
+SHA1: 71aa77881bccd232efa1bde415e1238a7c981528
+SHA256: 23d67dcab091b9a7641945e4cf6f28102a93ae501eafff1fb061d16bdde104fa
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y2
+Name: 美國隊長蒙板<主題>
+
+Package: com.axcvd.Y3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y3_1.0.1_iphoneos-arm.deb
+Size: 31786
+MD5sum: 790665a325849aea418d4864fc36601d
+SHA1: 54b16c6e15b0e0720bbdf537aedea43a221aed03
+SHA256: d8087c4828d4e3c82b5748e498d148358475724ce9c7bb14e1df4cd8aeaff121
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y3
+Name: 蜘蛛俠蒙板<主題>
+
+Package: com.axcvd.Y4
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y4_1.0.1_iphoneos-arm.deb
+Size: 24364
+MD5sum: 8c4220c0a5ca94b807ce01d1d14bf639
+SHA1: 669207548a1784ff8cf969f9e6774dea1737a74a
+SHA256: 2f49501b99f672014127dd2b20eb1fc3dfe193e557eda6a0b78098322bc08bdb
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y4
+Name: 蜘蛛俠蒙板2<主題>
+
+Package: com.axcvd.Y5
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y5_1.0.1_iphoneos-arm.deb
+Size: 84506
+MD5sum: 53049ac02c3b3c842277ce48b46ec53a
+SHA1: ecea66b01008da48df78cba773d8c1d01c6abea1
+SHA256: f178c5cbc32d8e31a5e9a89296d116d93db0fc7b12041a952832ed5d2bd94b00
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y5
+Name: 雷神蒙板<主題>
+
+Package: com.axcvd.Y6
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y6_1.0.1_iphoneos-arm.deb
+Size: 74084
+MD5sum: 1bc770f0c997f4458783e67c223b3b12
+SHA1: 5766346c32ff1975b148c53bd291bf99aed18dcb
+SHA256: 5641d663edf11c61b43bce3971fdddba417bcd5a6405c28fbd09b30a09318f7e
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y6
+Name: 圓形中國龍蒙板<主題>
+
+Package: com.axcvd.Y7
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y7_1.0.1_iphoneos-arm.deb
+Size: 25768
+MD5sum: 2b288f68e42d1dda490876543e10ca4d
+SHA1: ff3f6d4cc70bcbbf329d3118f3ff28a4ee210774
+SHA256: 417f91c72399615578c2090b7287838017bba00d141e9166ce96f26f9eaffdba
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y7
+Name: 圓形加框蒙板<主題>
+
+Package: com.axcvd.Y8
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y8_1.0.1_iphoneos-arm.deb
+Size: 149376
+MD5sum: 77a90daa54ed963c902fb4a398bc0092
+SHA1: 278f1800b3aa29aa36af094b062cf391623b1699
+SHA256: d3f12170cf22de565c53e960d0fca251e34a61d7621193acf72aad67d7e8ba96
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y8
+Name: 圓形墨跡蒙板<主題>
+
+Package: com.axcvd.Y9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y9_1.0.1_iphoneos-arm.deb
+Size: 37684
+MD5sum: 289a47c00dbf2c5b253633fdeabeb431
+SHA1: 657985da1414f898d27e5ea6ece7b12fcc901bc1
+SHA256: b608bb027011f0811cff4bdd69f3a49d80311b9b6dfaaef0876be3ca6b38f885
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y9
+Name: 圓形墨跡蒙板2<主題>
+
+Package: com.axcvd.Y10
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y10_1.0.1_iphoneos-arm.deb
+Size: 136424
+MD5sum: 7ca42e8e45b93f633b207f04b3b63cd5
+SHA1: c88f4c695a9572ecff50eecab020d6571ca38a27
+SHA256: 9098c2a6b44c965f259d3d28039603cdd46fa9433067e090782d66e349764d93
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y10
+Name: 圓形夜與山蒙板<主題>
+
+Package: com.axcvd.Y11
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y11_1.0.1_iphoneos-arm.deb
+Size: 77240
+MD5sum: 5a696f3614b1320e2be6b5f15ba57464
+SHA1: 643b389c0223d0d1418d3f4e3da254fea164649b
+SHA256: 11665ba7b47c0bd0ce60c789eb9cab2e028babba10a283026376a55389adfda1
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y11
+Name: 圓形小鳥蒙板<主題>
+
+Package: com.axcvd.Y12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y12_1.0.1_iphoneos-arm.deb
+Size: 39102
+MD5sum: f04187bc28efbb356e1a9fdc7bd9853e
+SHA1: 8f032e13bc4fca2d8b8271f97b2d76cf8e1694db
+SHA256: 4956ff6686729f75e2e6e26e459cd3a301deecc6088d03656fb21b2180ec11ab
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y12
+Name: 圓形漸變蒙板2<主題>
+
+Package: com.axcvd.Y13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y13_1.0.1_iphoneos-arm.deb
+Size: 49258
+MD5sum: f05f5b716e8f7d2b332c8bedb7596fe2
+SHA1: 2620ab133a5e6e6c9abac13fcb24f42e4241160c
+SHA256: 20df6cc2f6d2f663bccb206fcbbc2bfef47b3fbeae25a3700646064f04010345
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y13
+Name: 圓形熊蒙板<主題>
+
+Package: com.axcvd.Y14
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y14_1.0.1_iphoneos-arm.deb
+Size: 46898
+MD5sum: 545c6d550cc12f491c62ddabcfdf0553
+SHA1: cfd5eb482637f8303bc590c462916b7c7eaef3f8
+SHA256: 6f708962d65a7b1874f80b442436952edfac8ed936615a7037bc7a6fcf365ceb
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y14
+Name: 圓形科技蒙板<主題>
+
+Package: com.axcvd.Y15
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y15_1.0.1_iphoneos-arm.deb
+Size: 57420
+MD5sum: c2da8ac18c340993525d81b704204472
+SHA1: 5742352e51dc67ba69df90d7f912a913bca88edd
+SHA256: 86a0ce88af8435d14d73317eacf41234b8c9e61fc4d7333fa047216e77f7cfbc
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y15
+Name: 圓形光圈蒙板<主題>
+
+Package: com.axcvd.Y16
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y16_1.0.1_iphoneos-arm.deb
+Size: 98838
+MD5sum: b9e91587db5a23550a43fa0aa8c53520
+SHA1: e99ef57d86d290366bd5fc9aeb348cd79e72827a
+SHA256: d9bee9ca28e75a0c05036094b09ca6cbc25116622a02e783aafd580d3181f64c
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y16
+Name: 圓形花紋蒙板<主題>
+
+Package: com.axcvd.Y17
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y17_1.0.1_iphoneos-arm.deb
+Size: 38116
+MD5sum: 5cba7e3379b52752b21aee9664a0e37b
+SHA1: 86d1c2efbb7be2f4c16c74ca9e76260b7993fb8d
+SHA256: ee9052fbba711b158982fc257d203cb50b8057d3006dcc3eb8bfd10f273f00ea
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y17
+Name: 圓形花紋蒙板2<主題>
+
+Package: com.axcvd.Y18
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y18_1.0.1_iphoneos-arm.deb
+Size: 53372
+MD5sum: 505d146978c25fc5f69f93c6182eb6b0
+SHA1: 244bc16096422263895d8b735d47e1d8921b8534
+SHA256: a283a0449250245999d2fa5ff1fd977c4f14ce53f5e3e7f36e7efb4352f635f0
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y18
+Name: 圓形花蒙板<主題>
+
+Package: com.axcvd.Y19
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y19_1.0.1_iphoneos-arm.deb
+Size: 13834
+MD5sum: d965ddcb52a2e35ec9afde6dec9e3f0e
+SHA1: be2c14d61feddf28d1c57a001f5ca9af04be8c4b
+SHA256: 04c2f600e2b58d296f4f9c1ba5db9e707a28c677fd095a1e5e52950379faacca
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y19
+Name: 圓形蒙板<主題>
+
+Package: com.axcvd.Y20
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Y20_1.0.1_iphoneos-arm.deb
+Size: 37252
+MD5sum: 103ad01d178eaf852f09f2e4a18dd73c
+SHA1: 09a2f442b5d96d7d7ca5091e524e463fe4e6ef6b
+SHA256: 52af4b8e2e25610f7d1e5c4bfeb1b5fb335e2c5c85c02dc68bf03d4abb44bc05
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Y20
+Name: 圓形龍蒙板<主題>
+
+Package: com.axcvd.yy1
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy1_1.0.1_iphoneos-arm.deb
+Size: 2363450
+MD5sum: 160f20cebc00c5353e4c86a838a29b91
+SHA1: 9487399978099f14dac25c7e68e7012cb21ffe9c
+SHA256: 9996cf2ff121331718aad6ada9f5e15a0cd2ee591c7cbb0705ec4dd1943b24b8
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy1
+Name: 重啓動畫-XP<主題>
+
+Package: com.axcvd.yy2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy2_1.0.1_iphoneos-arm.deb
+Size: 1599238
+MD5sum: f3c9b980846c699f410b3989377c034b
+SHA1: c0acaa67f809217a8523355fb79b59d5dcc571b1
+SHA256: b0c12296138c31b4783ab0c1c6f18680285be756f56ae03c36cf7e0cae0156c9
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy2
+Name: 重啟動畫-北極熊<主題>
+
+Package: com.axcvd.yy3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy3_1.0.1_iphoneos-arm.deb
+Size: 1045636
+MD5sum: 5e5422e4e5fcec0a5a0bed1b655bc855
+SHA1: c208c1ea6c9e02ffd99e0e527f23c59a63fd3726
+SHA256: cf49d88df8515512914c30fe832df866b2b82cf33825f8dd1bb8988409dc7e3c
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy3
+Name: 重啟動畫-水箭龜<主題>
+
+Package: com.axcvd.yy4
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy4_1.0.1_iphoneos-arm.deb
+Size: 3640972
+MD5sum: 9da67830cba116601693bb6a99934960
+SHA1: 24bd6ab457ebc4de14e38c50593862dae916fe31
+SHA256: 556aa61065ea66bcc8cd9ff50e89bb9e026af7c5e61bd6b19c013cd296e13de3
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy4
+Name: 重啟動畫-漫畫<主題>
+
+Package: com.axcvd.yy5
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy5_1.0.1_iphoneos-arm.deb
+Size: 3640972
+MD5sum: db90ec0b4bf067fadc5591ff38001e2f
+SHA1: a173c624b22606015712fa9a664aca2652a1e4d7
+SHA256: 804414dd8a09a908ca03fdf931ad9eb6dd470dd856cb7e8ffd9d965159f6fbff
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy5
+Name: 重啟動畫-红眼<主題>
+
+Package: com.axcvd.3344
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.3344_1.0.1_iphoneos-arm.deb
+Size: 311242
+MD5sum: 3fad2785ea3ec0caa317cac8d9daf19f
+SHA1: 1d06459b0671cfea7dec0abac40ceec3e90f3282
+SHA256: 9c79f28325eb458419fffa5c910067a16ed2449e0b0d6526420f69b0fe87a685
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3344
+Name: 多種風格設置開關美化<主題>
+
+Package: com.axcvd.yy6
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy6_1.0.1_iphoneos-arm.deb
+Size: 31312174
+MD5sum: 73dafd9d23058eb7962a3fc313038a94
+SHA1: 2d1659a17b779aeb8ca17d77d85d46a4d95ea9eb
+SHA256: e4f02e57da7264ea2e35d1d271aa90eb330f19487a5449387464156f06ed133a
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy6
+Name: 重啓動畫-復仇者聯盟<主題>
+
+Package: com.axcvd.yy7
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy7_1.0.1_iphoneos-arm.deb
+Size: 891194
+MD5sum: 6ef55ab643608eda6e072b80e4c2ccba
+SHA1: 568ba222ca985b0b7078539865edffaf6d762201
+SHA256: 43ca4ed3feb85b4578a5a9f9877524fc83b5356f3efdc5f3e2cc3288dcb0c5ad
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy7
+Name: 重啓動畫-彩色蘋果<主題>
+
+Package: com.axcvd.yy8
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yy8_1.0.1_iphoneos-arm.deb
+Size: 19572308
+MD5sum: db5406e30b2daa193f65a04679e6908a
+SHA1: 3f3a40be5c0be8cfe2c6d4481feb89509542cf8b
+SHA256: 90da017e0f3603f77b54bfa44f89078d6a19a41128acdb4c35c93999900a4be8
+Section: Themes
+Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy8
+Name: 重啓動畫-神盾局特工<主題>
+
+Package: com.axcvd.yyyy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.yyyy_1.0.1_iphoneos-arm.deb
+Size: 25226
+MD5sum: 7f4049003c31e4c75a5996b5016fc04e
+SHA1: 0e5f196e002d84f2c6854122a4832fe648481301
+SHA256: 690f910be06d06fd8b393a5b3a281e7520f6361b880702a5e4918540cd34f168
+Section: Themes
+Description: 虚化蒙板記得看描述不然不行用喔！
+Author: 網路上找到 <網路上找到>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yyyy
+Name: 虚化蒙板<主題>
+
+Package: com.axcvd.SettingsWidgets
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SettingsWidgets_1.0.1_iphoneos-arm.deb
+Size: 1228
+MD5sum: b96d9a354829f2c286a90eca240e2893
+SHA1: 8e008cf06cf31cbf64ae1b8a59f2021a8113e28e
+SHA256: dd8ebf8a59e5e3fa83837f5d5082d6db2ca0c174982cb81aa5b053ca3333973d
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SettingsWidgets
+Name: SettingsWidgets繁體中文化
+
+Package: com.axcvd.Vinyl
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Vinyl_1.0.1_iphoneos-arm.deb
+Size: 1164
+MD5sum: b90f6b553c99c5c6342bc4dba070979a
+SHA1: 9cf1ae05d1b5199a6deb9a483d3285c9c770c1bc
+SHA256: 1fb92d76c9dd2bc03ecf0c210886d29891b8d1d8b579c56ea448cbc37be0765e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vinyl
+Name: Vinyl繁體中文化
+
+Package: com.axcvd.HapticMyRespring
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.HapticMyRespring_1.0.1_iphoneos-arm.deb
+Size: 1866
+MD5sum: 755bb1ed008a7ccb34e5bf97d568778a
+SHA1: f7db1179247783d070c05db8c5a0b95aed04fe5a
+SHA256: 91d6846580ef21f43d1a13a9613fa846130ac0fe5c9c8a0425f18f5e634c34bd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HapticMyRespring
+Name: HapticMyRespring繁體中文化
+
+Package: com.axcvd.AdaptiveDarkMode
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AdaptiveDarkMode_1.0.1_iphoneos-arm.deb
+Size: 1784
+MD5sum: 1e45c155a3cf43f63e9b54eedadbe3c4
+SHA1: a67967d2775735cab800c807586e889027835d63
+SHA256: 683547155f7ac52f0f7ca2fa1910a0d464bb40a8f064cc92d524426ee1720dcd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdaptiveDarkMode
+Name: AdaptiveDarkMode繁體中文化
+
+Package: com.axcvd.Edge
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Edge_1.0.1_iphoneos-arm.deb
+Size: 1850
+MD5sum: 65160dedec13aaa870c7763c1d1a502f
+SHA1: 66d1707985760227d18eaed56cffe68e4279b649
+SHA256: ca59a5755d513843d0f6ffa860786f6f9455077bc410b63c9d595e7eb760ea99
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Edge
+Name: Edge繁體中文化
+
+Package: com.axcvd.Luminous
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Luminous_1.0.1_iphoneos-arm.deb
+Size: 1570
+MD5sum: 0dcdb218962671552c668bf4f81a2b36
+SHA1: e5657809ac1b9c11860ef09581ed4a880304394c
+SHA256: 477b07b37002151fb808dca2c05e8074d5e0fa2957272008c9b3336d751c1354
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Luminous
+Name: Luminous繁體中文化
+
+Package: com.axcvd.PullOverPro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.PullOverPro_1.0.1_iphoneos-arm.deb
+Size: 2010
+MD5sum: 77d6b7567f1baaa249755c588831ccb1
+SHA1: 08aed9d048b2466fd7830a2535830021e8452b8f
+SHA256: 71e7bdf7918368e626bedb2decd49bab56e4eef3f5c344cd27b2569522879afc
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PullOverPro
+Name: PullOver Pro繁體中文化
+
+Package: com.axcvd.InstaLauncher2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.InstaLauncher2_1.0.1_iphoneos-arm.deb
+Size: 2230
+MD5sum: 7c3f0e1337eb8ee735f3c46774ff56a6
+SHA1: 5424037d026c50187299c319c71fb5b2c0b2881a
+SHA256: 9db9f625d2e6f6acc105c1c4571934d50a972e5b857d889b8ae37c8bb50cd127
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.InstaLauncher2
+Name: InstaLauncher 2繁體中文化
+
+Package: com.axcvd.MilkyWay
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MilkyWay_1.0.2_iphoneos-arm.deb
+Size: 1344
+MD5sum: 66738a1964722eab45bea079715fece6
+SHA1: 6eac43f0bd706abd8cba73af936173cbc84d124a
+SHA256: 8c421f5f788c34d49dab0039f2463ee8567899937e2615edd939365cadc21f22
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MilkyWay
+Name: MilkyWay2繁體中文化
+
+Package: com.axcvd.NewTerm
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NewTerm_1.0.1_iphoneos-arm.deb
+Size: 1892
+MD5sum: f73edfe34f1c860ff000ddf2eb3015c6
+SHA1: 9512e2f72d5671410dfd50822a48d14b8db04250
+SHA256: 899c950a207be457f4f52e2c38824fc5d2b37fd300058af12328c6dd4122a39b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NewTerm
+Name: NewTerm繁體中文化
+
+Package: com.axcvd.No2Theft3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.No2Theft3_1.0.1_iphoneos-arm.deb
+Size: 4350
+MD5sum: afd17949079fdc3669fafa28bcb2bdf1
+SHA1: d577a7132f09a76b669b969117e6d0f84080a6af
+SHA256: 968e08a8b2c31159fd6a406d9a5058782cc87880f0ce8bbccab6353e723fec57
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.No2Theft3
+Name: No2Theft3繁體中文化
+
+Package: com.axcvd.Bonzi
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Bonzi_1.0.1_iphoneos-arm.deb
+Size: 1542
+MD5sum: aa522d36af5f331215c3880e45473bcf
+SHA1: 83a83eb54d883cae60923d32555195d173716cc8
+SHA256: 8fc230b590653034ea815fb9b87fafedcbf60eb79413ee16f9161156124670d7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Bonzi
+Name: Bonzi繁體中文化
+
+Package: com.axcvd.TouchFlow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TouchFlow_1.0.1_iphoneos-arm.deb
+Size: 1414
+MD5sum: f0f2fe9e1a31bdd1d13a95a79be6c28c
+SHA1: e1b39c3ff3c1251b88243be932d205e0982f1a39
+SHA256: 8a0dae44a0b8dc06bbf8b085a57daf9d73891b549b73c550ebc5130bd4adf1e5
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TouchFlow
+Name: TouchFlow繁體中文化
+
+Package: com.axcvd.KernBypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: jp.akusio.kernbypasss
+Filename: ./debs/com.axcvd.KernBypass_0.0.1_iphoneos-arm.deb
+Size: 954
+MD5sum: 5c130ddfae415f9d63a0f3a7ed172425
+SHA1: b9a17951d86da97f501b150b2f1b27e1ff532855
+SHA256: 875d0fb302eca174c94bfc07dd1d5d72512caaf5324390e047d84501a82e6501
+Section: Tweaks
+Description: 重新越獄來這裡下載才能可以直接使用喔！
+Author: Hiraku <dev@hiraku.tw>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KernBypass
+Name: 一鍵激活KernBypass
+
+Package: com.axcvd.YTKPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.YTKPrefs_1.0.1_iphoneos-arm.deb
+Size: 3802
+MD5sum: b9e430f939429e07d67589e445da51af
+SHA1: 8fe4f9090c26eb1c1a9df5fe7a965220dd55bcae
+SHA256: b3c86f47b0e15f7b173c13094c177ffb12020c879a9100fdac42f4a4c6a33b68
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.YTKPrefs
+Name: YTKPrefs 繁體中文化
+
+Package: com.axcvd.z1
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z1_1.0.1_iphoneos-arm.deb
+Size: 37626208
+MD5sum: f2b96c34ad93dfbbc2ef6d827e02e47a
+SHA1: f74bd4c753fef39c72d6e8396fd2a6de5f366349
+SHA256: b649ac292ad5a1439f675c831e50efcdd93b4893d0cb83ab2c576e3e8d5cecb0
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z1
+Name: iOS9-iOS12 文鼎DC香蕉人體85%小字體【心雨】2019年4月4日
+
+Package: com.axcvd.z2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z2_1.0.1_iphoneos-arm.deb
+Size: 48357128
+MD5sum: 4620f7d1ab7b423f40caa0806a51cce2
+SHA1: 72378815302249bd6d408259da8df347bc97acce
+SHA256: 977ba2cce7fb0da81f8311fd70184823344a2bd9c606992d92ec8f2161f61abd
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z2
+Name: iOS9-iOS12文鼎香蕉人字体中英文【心雨】2019年4月1日
+
+Package: com.axcvd.z3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z3_1.0.1_iphoneos-arm.deb
+Size: 40990606
+MD5sum: 77a561937231a71acc4a96e3ed2e0c0c
+SHA1: 3d5dfdf76e5b12e8334ce0e7e3dc7bcd3add4979
+SHA256: 933c1fe710c5155fcbc6ba003915bc6d1dfa14f0410b39ce515ec464cab9c184
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z3
+Name: iOS9-iOS13 IBM中粗黑【心雨】2019年11月17日
+
+Package: com.axcvd.z5
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z5_1.0.1_iphoneos-arm.deb
+Size: 79444446
+MD5sum: 0e49d40179a710654efb6f2b2adc2c3b
+SHA1: feac4d4345e5ee2a59a4c4477a2b8d76bbe24de3
+SHA256: 8f0ad8b55a0dbb1089b89004332334d0270f6e7b37aa5940337f2097e57905cf
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z5
+Name: iOS9-iOS13 Trueメカ丸精修版中英文
+
+Package: com.axcvd.z6
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z6_1.0.1_iphoneos-arm.deb
+Size: 43432374
+MD5sum: f5165f3991c74215d1234c24bde12225
+SHA1: cb8e649a89bdc07d202f6efc45847c6979615e19
+SHA256: 2010bd302029c07db4349efd2dfdcc59229b4052716a2112f4a41f1cfbb8b6a9
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z6
+Name: iOS9-iOS13 保时捷字体中英文
+
+Package: com.axcvd.z7
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z7_1.0.1_iphoneos-arm.deb
+Size: 40385904
+MD5sum: e2361eb8be01f80f6f657a525bbf46c0
+SHA1: 1dfa853a41f1883210215ee53535bb6cc2515bff
+SHA256: 279ba291613039ee1065b22f0c091f35cac2d3b97ba3fc850eafa73cfbdb5067
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z7
+Name: iOS9-iOS13 寶黑常規體
+
+Package: com.axcvd.z8
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z8_1.0.1_iphoneos-arm.deb
+Size: 95614370
+MD5sum: da9d4aa56aff4fe4db46242abb88d340
+SHA1: 8b1fb007af19d45f3e74547b445a3eecd750c387
+SHA256: 92972db32a8134d624039aa485944aa426ef35e96d42ae0c1c0d191a4f31324a
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z8
+Name: iOS9-iOS13 日本無限圆5字重中英文
+
+Package: com.axcvd.kai
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.kai_1.0.1_iphoneos-arm.deb
+Size: 2096
+MD5sum: 42ed57fb37bc8894fa4326708abb583b
+SHA1: 85f872cc593b41d5e8e23ed00ad51154b3cb7ae3
+SHA256: 617073a186cd1ec059996dedb6cd5703430acb0cde7a30b35c43816c0a461763
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.kai
+Name: kai 繁體中文化
+
+Package: com.axcvd.SplitApp
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SplitApp_1.0.1_iphoneos-arm.deb
+Size: 1804
+MD5sum: cc10d2a09e43112a26a79ba7a9511ff3
+SHA1: 8fdb15ffc6c5be07afc05a22781b7b26626c0665
+SHA256: ecee92b11b771ebb28316b0d134aaf5761429e0407cc1a1bef1185081bbec2dd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SplitApp
+Name: SplitApp 繁體中文化
+
+Package: com.axcvd.MyWall
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MyWall_1.0.1_iphoneos-arm.deb
+Size: 2438
+MD5sum: 52a5f6500f04a3f59a6ad92198503050
+SHA1: e4c1342065309909fbfaf7a0d755a605ce9e06b7
+SHA256: 9a3cf55633735cbf92822e8f2621db3382f934061b5060207dc517ce510c33ec
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MyWall
+Name: MyWall 繁體中文化
+
+Package: com.axcvd.Glow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Glow_1.0.1_iphoneos-arm.deb
+Size: 2554
+MD5sum: efd529af7f2838a7d67c65d85f6eaa5e
+SHA1: de3e1c154d99e9ebfdb65c89de7a768d9c619c61
+SHA256: e85084414e98df7b4f9b7b2dfa742ee127ec373c6c46f5eded626e8a4c071784
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Glow
+Name: Glow 繁體中文化
+
+Package: com.axcvd.DictMojiX
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DictMojiX_1.0.1_iphoneos-arm.deb
+Size: 1548
+MD5sum: 4780563578e125a7d1f64519c0bc2af8
+SHA1: b3ccf77eb199bb488f33153109303b8cdf7af594
+SHA256: 6a44c3411a5a47427b5bc8c0c6446c673a43f34b543c7500625c491cbf07cbfd
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DictMojiX
+Name: DictMojiX 繁體中文化
+
+Package: com.axcvd.InstagramNoAds
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.InstagramNoAds_1.0.2_iphoneos-arm.deb
+Size: 2010
+MD5sum: 5530099c14f37d8a7a14f48c7829fa3e
+SHA1: 8ed6238566c828eae8662c60850cba57f7de3b6c
+SHA256: 163a430371aa8a9fffa13d8dd8cfbf68ed4df92a0a10bf9cab085d02c60b1e89
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.InstagramNoAds
+Name: Instagram No Ads 繁體中文化
+
+Package: com.axcvd.ScrolleX
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ScrolleX_1.0.1_iphoneos-arm.deb
+Size: 2648
+MD5sum: e4d1198c17529562815da065e533c621
+SHA1: 0f9df741d93c4e285eae2f17e022afc1738da609
+SHA256: a243abe745e9b7d500d8a6c8fc8aaadd0b636866270718a8e0c309804d6f1491
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ScrolleX
+Name: ScrolleX 繁體中文化
+
+Package: com.axcvd.TikTokGod
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TikTokGod_1.0.1_iphoneos-arm.deb
+Size: 2082
+MD5sum: c6133e810dd40bf8bb47da82760cb7cf
+SHA1: 1a8cf384f9fe5c7ab0d3d8d4f55e4270a66d54e7
+SHA256: 318784655fd83656d913b46552dbbdd928f23728f163b67f53387827dd46c024
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TikTokGod
+Name: TikTokGod 繁體中文化
+
+Package: com.axcvd.TwitchNoAds
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TwitchNoAds_1.0.1_iphoneos-arm.deb
+Size: 1626
+MD5sum: c6419875062887db8e9b8c4b3adb6aea
+SHA1: fb8f3ae9fe8f14ff056e6bc4fabdbea58b4a1e49
+SHA256: dedb3f88a636ea3698a195e0a9f13fee91acde7ed68308b73f6d0a2321c9ce34
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TwitchNoAds
+Name: Twitch No Ads 繁體中文化
+
+Package: com.axcvd.123456
+Version: 0.2.5.3
+Description: 韓國佬寫的屏蔽越獄檢測、禁止注入、禁用基板插件。
+Section: Tweaks
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Filename: ./debs/com.axcvd.123456_0.2.5.3_iphoneos-arm.deb
+Size: 617762
+MD5sum: b9dca36585420396d217805ceb90965b
+SHA1: 584b5a8cc76301d60f8f89da08f233fe310faeba
+SHA256: af14f6b65fcc7479fc12980e3dca3f861d2f353c9062ee8e4d9be8cad1f744ce
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.123456
+Architecture: iphoneos-arm
+Name: FlyJB網路上找到的備份
+Author: XsF1re
+Conflicts: com.axcvd.123456.cn, com.crak.flyjb.cn, kr.xsf1re.flyjb
+
+Package: com.axcvd.12345
+Version: 0.0.6
+Section: Tweaks
+Maintainer: akusio
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=11.0)
+Filename: ./debs/com.axcvd.12345_0.0.6_iphoneos-arm.deb
+Size: 37210
+MD5sum: 12a50e1ec317a6f71d8a9a5608fece54
+SHA1: 6c4014c086c7fd665b09f4a61c01c59f92d489e9
+SHA256: 550eca1b261c2f0833d0f1ab6136214f2270d5ded050f2814220af8112d5b775
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.12345
+Architecture: iphoneos-arm
+Description:KernBypass內核級屏蔽網路上找到的備份
+Name: KernBypass內核級屏蔽
+Author: akusio/土撥鼠
+
+Package: com.axcvd.TwitterNoAds
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.TwitterNoAds_1.0.1_iphoneos-arm.deb
+Size: 1808
+MD5sum: 4a84aa99ebb90ef00c9dc2b7881747b2
+SHA1: bd0ad58817eff391ff287a7a6ddb0d05627fe1bf
+SHA256: b15311068f3a9164b6b5ed340d67fc62958a7c0c91cdb8b8ec591b5101006043
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TwitterNoAds
+Name: Twitter No Ads 繁體中文化
+
+Package: com.axcvd.AFSocial
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AFSocial_1.0.1_iphoneos-arm.deb
+Size: 7732
+MD5sum: 80823a681d0f80c79e55571b82c75353
+SHA1: aef90be991898dd0afdcfaf752599a20be498ace
+SHA256: a91df506e3a458fef56a88d2d5cb6c92ee734b09e9d6c070f0df845b5e4ba6b4
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AFSocial
+Name: AFSocial 繁體中文化
+
+Package: com.axcvd.FastAppLS
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FastAppLS_1.0.1_iphoneos-arm.deb
+Size: 1440
+MD5sum: 477ca01555de882306729a6c7d8691fe
+SHA1: f7907436069ef3088c665fb74875d9d312370760
+SHA256: a78d9dbc9936833c51d1b5dc5c61e0da2820e6cb3be50f9a4854afbcab514a8d
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FastAppLS
+Name: FastAppLS 繁體中文化
+
+Package: com.axcvd.HomeroRun
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.HomeroRun_1.0.2_iphoneos-arm.deb
+Size: 1614
+MD5sum: bb70b2a24a85c6a29d5d6db93053961a
+SHA1: 350d6b30ff2a177bc07cdf5e9e91b666466e7a88
+SHA256: 50deac879127c727c2c170af5562cddfa61fb035fa2bf4853ab20191ce406511
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HomeroRun
+Name: HomeroRun 繁體中文化
+
+Package: com.axcvd.z9
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z9_1.0.1_iphoneos-arm.deb
+Size: 35964138
+MD5sum: 32dcd77b1ea894c5f7fddf0e38b4c39f
+SHA1: 68ffa526ba5068438f0810dc223f7f14ee5463b8
+SHA256: e9282add37df746bf9dfed94ff56f6d8adb8e9a58311a15f26a1ad5bee20a176
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z9
+Name: iOS13YY體正常版
+
+Package: com.axcvd.z10
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z10_1.0.1_iphoneos-arm.deb
+Size: 42422314
+MD5sum: aa68396b0d8b12d9f499e3462e703a89
+SHA1: 108f274e08aa1c72dda04257acf9f2e8322e1cb0
+SHA256: 76b58cc92f0285f50206d4218d74401ac9c3793caa66ff00a5472129a946b9a4
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z10
+Name: iOS13夏日體正常版
+
+Package: com.axcvd.z11
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z11_1.0.1_iphoneos-arm.deb
+Size: 45587670
+MD5sum: b5f5d4edf1be56be878604dc3bc9c8dd
+SHA1: 68bae9370147abeb78b8c4908ac85b021e188524
+SHA256: 8e65510db33cadbeac601c999c3e1748f4426a6e8211bcf28a4648f2de338671
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z11
+Name: iOS13微軟雅黑
+
+Package: com.axcvd.z12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z12_1.0.1_iphoneos-arm.deb
+Size: 47519130
+MD5sum: e70dd35be94127e07b2d73b5540a6b82
+SHA1: 6cddc5faf446433eeae2bfb0c52e00ca6df90055
+SHA256: a4f2dc8182b36ac0c6c1aa5ee51c1114d399448b2422b2ec6e4d07ccdb846c00
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z12
+Name: iOS13思源黑體舊字形正常版
+
+Package: com.axcvd.z13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z13_1.0.1_iphoneos-arm.deb
+Size: 33695888
+MD5sum: d28a442a585651f6ad6c385ebee0a325
+SHA1: e9d259620f654268807d4bc89158b432ff76226e
+SHA256: 72ca6ed645386081c243f3e9c5e99c88d349d6a2ce47f1a3642e6e4690d05e06
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z13
+Name: iOS13水云體正常版
+
+Package: com.axcvd.z14
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z14_1.0.1_iphoneos-arm.deb
+Size: 32723744
+MD5sum: 1a9b38cc1997dae9d52ec5076c196f44
+SHA1: e94c06d31c42760670d4a574da96896391231975
+SHA256: 1eabc46197bdc900bea00872d590fac8b40d2bf325aba74c165115f50b3ea61d
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z14
+Name: iOS13瀬戸フォント正常版
+
+Package: com.axcvd.z15
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z15_1.0.1_iphoneos-arm.deb
+Size: 25819736
+MD5sum: 197b5a2a5543375e30688d7c726c50ed
+SHA1: 424f7660ded6d347aacf0b13d21cdc64c95433c3
+SHA256: 8330b112136c0048c98895b4416742ef3f2e3e25ee2efc82ac18bbabba4b2494
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z15
+Name: iOS13瘦金體
+
+Package: com.axcvd.z16
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.z16_1.0.1_iphoneos-arm.deb
+Size: 18717760
+MD5sum: 4c98bbf6d4d06e7b528caacaf71e1cfc
+SHA1: 3d641dcb0d16a065f342ed4060265178dd518fab
+SHA256: 8874d3187b9d5d1971abc6f27054c07617aa4107764ae491c62cf3b0c9bff5ce
+Section: Fonts
+Description: 字體版權 歸原開發公司所有，字體僅供學術研究使用，如有侵權行為請來信告知。
+Author: 匿名 <匿名>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.z16
+Name: iOS13顏體
+
+Package: com.axcvd.SkinnyMenu
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SkinnyMenu_1.0.1_iphoneos-arm.deb
+Size: 1468
+MD5sum: e442017963982a039d5d852bcee660cc
+SHA1: 351cf3d2a57b99378e97720725be3440ae549512
+SHA256: e33c86ae48f84d13cbbb228af4625b2fc868db982945069600965d59a37f22c1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SkinnyMenu
+Name: SkinnyMenu 繁體中文化
+
+Package: com.axcvd.Switchus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Switchus_1.0.1_iphoneos-arm.deb
+Size: 2956
+MD5sum: 709fb43ba0056596a8f019ea3f864a8e
+SHA1: b2bc2f8c271c5f3871ded215a3f66527c58a4a17
+SHA256: 820f8eddb7c78c534b66836851818e6eb4cbfd11e0e0ceae0bf992787f43b755
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Switchus
+Name: Switchus 繁體中文化
+
+Package: com.axcvd.Rainbow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Rainbow_1.0.1_iphoneos-arm.deb
+Size: 2542
+MD5sum: 81eb7fc849325b54f589445cffa23924
+SHA1: 42ce3d06ac9293ef10b6347e3e22e7ebbbffbeed
+SHA256: 881564f5c71269ab51db399a4bdd4506142f55e039f4efb846f6fad92c7b3514
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Rainbow
+Name: Rainbow 繁體中文化
+
+Package: com.axcvd.Choicy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Choicy_1.0.1_iphoneos-arm.deb
+Size: 2798
+MD5sum: bd35cdfa4e83d7f857365751e8e8df96
+SHA1: 47b9e0feff024158a4d78b6bf8faa17dc800de59
+SHA256: f73101efe2f407c068b6ba12f0babe2d46b3d48866f27f3cb606269a6eec6b35
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Choicy
+Name: Choicy 繁體中文化
+
+Package: com.axcvd.Laetus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Laetus_1.0.1_iphoneos-arm.deb
+Size: 2502
+MD5sum: 3c739a7792680889e212c4374ed0b106
+SHA1: 6758b782f2db242f25f77c4369a9b4c2bc83a96e
+SHA256: af946f94908914805f1b9da54589ea1dfcc8c03ff81096c1944f6fc31de274a1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Laetus
+Name: Laetus 繁體中文化
+
+Package: com.axcvd.Crane
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Crane_1.0.1_iphoneos-arm.deb
+Size: 3500
+MD5sum: e5713137102b30e7eb0d811f3e8bd1cf
+SHA1: 83d55a95d7a430aeb1dc10b10fa7d86b4f1b0a87
+SHA256: 2376c70383cd4f59ab604abb7d14048325052b2550d7dd63c06b347bb4ef8395
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Crane
+Name: Crane 繁體中文化

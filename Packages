@@ -2736,15 +2736,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.8
 Name: 鴻運鎖屏的小鎖頭動畫
 
 Package: com.axcvd.YouTubeReborn
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.YouTubeReborn_1.0.6_iphoneos-arm.deb
-Size: 2600
-MD5sum: 58713d2826774a1e772e5809e0b1ee2c
-SHA1: 75fa970495fd629d6dddc0b8f7f49e2f6308180c
-SHA256: 3e2c0bc1df75050586fb0fc98ba93307ae2c7213c039e1dfbd8a13be42cdf323
+Filename: ./debs/com.axcvd.YouTubeReborn_1.0.7_iphoneos-arm.deb
+Size: 2658
+MD5sum: b413964925c52fcedb8ab6254835fdee
+SHA1: 1e00bf6da69ffccbccf538168ca43a1f3d58a9c1
+SHA256: e4bd74c1d22f3217a79d4dcd0a3fb0c75c386cf5de64409fa3195b17ab527bc7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>

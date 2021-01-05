@@ -2741,10 +2741,10 @@ Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.axcvd.YouTubeReborn_1.0.7_iphoneos-arm.deb
-Size: 2658
-MD5sum: b413964925c52fcedb8ab6254835fdee
-SHA1: 1e00bf6da69ffccbccf538168ca43a1f3d58a9c1
-SHA256: e4bd74c1d22f3217a79d4dcd0a3fb0c75c386cf5de64409fa3195b17ab527bc7
+Size: 2652
+MD5sum: a341040d0ca85dc83249a888a8279103
+SHA1: c7ca3daa475b77ce83bd01d815d4d39ffd5cf878
+SHA256: 6d734c4a423a849ec6c9385a6e9bf54dfdae2793798560a5c629b8b0331d8146
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>

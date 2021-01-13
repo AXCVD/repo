@@ -4318,3 +4318,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Crane
 Name: Crane 繁體中文化
+
+Package: com.axcvd.BattSafePro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BattSafePro_1.0.1_iphoneos-arm.deb
+Size: 2724
+MD5sum: a0a96947b08e10b3546926b96a830c83
+SHA1: 2ac20e6a0dfd0e4ceafa94f73fe20ec1c9671e18
+SHA256: 8477c32de3b54d9bff9123e3e03e9a59465e0dfb99c7846a11865c16e9bf3bf6
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BattSafePro
+Name: BattSafePro 繁體中文化

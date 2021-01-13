@@ -4334,3 +4334,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BattSafePro
 Name: BattSafePro 繁體中文化
+
+Package: com.axcvd.MilkyWay3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MilkyWay3_1.0.1_iphoneos-arm.deb
+Size: 1516
+MD5sum: 52ca9d1364e7b4ceb440950851af5f9f
+SHA1: 05c442edc27957d1371aafb6f45b11b2f705bc31
+SHA256: fc1753b2529cd20ef3eb126b4264ff6b104bc4e8771f76382e1391f8ff27e034
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MilkyWay3
+Name: MilkyWay3 繁體中文化

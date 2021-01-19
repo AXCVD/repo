@@ -4350,3 +4350,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MilkyWay3
 Name: MilkyWay3 繁體中文化
+
+Package: com.axcvd.Lynx
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Lynx_1.0.1_iphoneos-arm.deb
+Size: 7494
+MD5sum: ea370a8fe7499d69c5ff1590c0c0f9e8
+SHA1: 30f42b71d3999dc457e24db214defcb2ab5a0d68
+SHA256: bdccfd4ff5c1b3206b9161b00ddae4f4ee3f7415fe56f7c7a28d527e77280aa2
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Lynx
+Name: Lynx 繁體中文化

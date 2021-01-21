@@ -4366,3 +4366,51 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Lynx
 Name: Lynx 繁體中文化
+
+Package: com.axcvd.DarkGMaps
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DarkGMaps_1.0.1_iphoneos-arm.deb
+Size: 1590
+MD5sum: 398609a5aafaf789d270f30badbd51e5
+SHA1: 07761d81aad6a71bc5d89f1255c0670d47d32d06
+SHA256: aa85d9b4821662b119fc97f52570cf5710f5a690dc93a74097c3265d96f9489f
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DarkGMaps
+Name: Dark GMaps 繁體中文化
+
+Package: com.axcvd.Dimage
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Dimage_1.0.1_iphoneos-arm.deb
+Size: 1814
+MD5sum: 0e3e5205a0353218b8e5d7b8e2902f67
+SHA1: b44a2710200e10d44eefa465c6488cab342d7be8
+SHA256: aeb27398ddd330b5988fb2545389d0f88074ea23662ef5237f0414a87aa6a1cb
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dimage
+Name: Dimage 繁體中文化
+
+Package: com.axcvd.DnDSwitch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.DnDSwitch_1.0.1_iphoneos-arm.deb
+Size: 1198
+MD5sum: 573b81c0895ac11ccb8b3ef2f31ebb60
+SHA1: 2eb1f90ea95e3f83414eec9008d47ecffe179175
+SHA256: bfaa2df97237d0bb2761f2b5bbce5659bccb4599d68f2ee09652a11a306924f3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DnDSwitch
+Name: DnDSwitch 繁體中文化

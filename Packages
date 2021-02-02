@@ -4414,3 +4414,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DnDSwitch
 Name: DnDSwitch 繁體中文化
+
+Package: com.axcvd.FlyJBX
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FlyJBX_1.0.1_iphoneos-arm.deb
+Size: 3514
+MD5sum: bdc5acdb81a6e4cfbf30f8f0971eae06
+SHA1: 0b644edd1e8ec7b8c3850818414dd6ebc72a4bc0
+SHA256: f6f3dc82ded0a8369668229492602a0e39b30ebdde34f0b8d99251ed6fc67054
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FlyJBX
+Name: FlyJB X 繁體中文化

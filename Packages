@@ -4430,19 +4430,3 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FlyJBX
 Name: FlyJB X 繁體中文化
-
-Package: com.axcvd.Fast-LS14
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: 小謝 <vv741852v@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.Fast-LS14_1.0.1_iphoneos-arm.deb
-Size: 1382
-MD5sum: 8c92714bf1d1f46f7050f5a21f93b806
-SHA1: 2411df2743b172b947a48c398a5006c113a0fc2d
-SHA256: da0c7e7fd5c8086608c2b8807528fe271d52d60abc1c4dd2c7579ee3e27aeab0
-Section: Localization
-Description: 使用前先裝主程式不然就沒有中文化了
-Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Fast-LS14
-Name: Fast-LS 14 繁體中文化

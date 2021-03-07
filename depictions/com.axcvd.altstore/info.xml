@@ -1,0 +1,37 @@
+<package>
+	<id>com.axcvd.altstore</id>
+	<name>AltStore(自簽)</name>
+	<version>1.4.4</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>20.3</maxiOS>
+			<otherVersions>11.0</otherVersions>
+			<!--
+			對於其他版本，您可以放置不受支持或未經確認的版本
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AltStore(自簽)
+			1.添加源https://repo.dynastic.co/；
+
+2.安裝本插件，會連帶一起裝依賴；
+
+3.Filza打開/Applications/AltStore.app目錄下的info.plist；
+
+4.在info.plist中的ALTDeviceID字段填寫自己設備的UDID，然後保存；
+
+5.進入AltStore主程序登陸自己的AppleID，一路下一步，點擊Refresh Now，然後刷新出來一個新的AltStore+(這個就是越獄版AltStore簽名出來的一個證書版的AltStore)，不用管；
+
+6.導入需要簽名的IPA，簽名過程中彈出刷新，點Refresh Later取消即可；
+
+7.去設置里看是否有簽名，信任，簽名完成！
+</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

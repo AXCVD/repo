@@ -4430,3 +4430,33 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FlyJBX
 Name: FlyJB X 繁體中文化
+
+Package: com.axcvd.SmartBattery2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.SmartBattery2_1.0.1_iphoneos-arm.deb
+Size: 6822
+MD5sum: 5ca7f7f85d78985d9ccef02db4d72ed3
+SHA1: 7afa906d13af13d05385960f01b61678cf0936f6
+SHA256: 3e01657e94b114acc16f01b9702d3cb448eb1fb142906ba2192b3a4c3decffd1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartBattery2
+Name: SmartBattery2 繁體中文化
+
+Package: com.axcvd.altstore
+Version: 1.4.4
+Section: Tweaks
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Name: AltStore(自簽)
+Author: Riley Testut
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.altstore
+Filename: ./debs/com.axcvd.altstore_1.4.4_iphoneos-arm.deb
+Size: 4603498
+MD5sum: b39dd0b583af32297d6391a6e09e1aa6
+SHA1: 732bc32388c19373d9a134d565ed8d18e76dffa4
+SHA256: c5a81688c80949ceece237083d8e56622f8761cf87ef4af71e0d4e0452f1ff4b

@@ -4452,7 +4452,7 @@ Version: 1.4.4
 Section: Tweaks
 Depends: firmware (>= 12.2), com.rileytestut.altdaemon
 Architecture: iphoneos-arm
-Name: AltStore(自簽)
+Name: AltStore
 Author: Riley Testut
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.altstore
 Filename: ./debs/com.axcvd.altstore_1.4.4_iphoneos-arm.deb
@@ -4460,3 +4460,4 @@ Size: 4603498
 MD5sum: b39dd0b583af32297d6391a6e09e1aa6
 SHA1: 732bc32388c19373d9a134d565ed8d18e76dffa4
 SHA256: c5a81688c80949ceece237083d8e56622f8761cf87ef4af71e0d4e0452f1ff4b
+Description: 免電腦自簽

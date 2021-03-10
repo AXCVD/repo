@@ -22,7 +22,7 @@
 
 4.在info.plist中的ALTDeviceID字段填寫自己設備的UDID，然後保存；
 
-5.進入AltStore主程序登陸自己的AppleID，一路下一步，點擊Refresh Now，然後刷新出來一個新的AltStore+(這個就是越獄版AltStore簽名出來的一個證書版的AltStore)，不用管；
+5.進入AltStore主程序登陸自己的AppleID，一路下一步，點擊Refresh Now，然後刷新出來一個新的AltStore(這個就是越獄版AltStore簽名出來的一個證書版的AltStore)，不用管；
 
 6.導入需要簽名的IPA，簽名過程中彈出刷新，點Refresh Later取消即可；
 

@@ -3549,7 +3549,7 @@ Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HapticMyRespring
-Name: HapticMyRespring繁體中文化
+Name: HapticMyRespring 繁體中文化
 
 Package: com.axcvd.AdaptiveDarkMode
 Version: 1.0.1
@@ -3565,23 +3565,23 @@ Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdaptiveDarkMode
-Name: AdaptiveDarkMode繁體中文化
+Name: AdaptiveDarkMode 繁體中文化
 
 Package: com.axcvd.Edge
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.Edge_1.0.1_iphoneos-arm.deb
-Size: 1850
-MD5sum: 65160dedec13aaa870c7763c1d1a502f
-SHA1: 66d1707985760227d18eaed56cffe68e4279b649
-SHA256: ca59a5755d513843d0f6ffa860786f6f9455077bc410b63c9d595e7eb760ea99
+Filename: ./debs/com.axcvd.Edge_1.0.2_iphoneos-arm.deb
+Size: 2086
+MD5sum: 8f84ef060bd3a5563f8524f0fe67f3b1
+SHA1: 853cacdfc84a8383eff796baf62c48249131da4c
+SHA256: d0ed3fa8c95f7fbc040cd1319949a58c57d978312c507ff436bd5e0f1c8debed
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Edge
-Name: Edge繁體中文化
+Name: Edge 繁體中文化
 
 Package: com.axcvd.Luminous
 Version: 1.0.1
@@ -4461,3 +4461,19 @@ MD5sum: b39dd0b583af32297d6391a6e09e1aa6
 SHA1: 732bc32388c19373d9a134d565ed8d18e76dffa4
 SHA256: c5a81688c80949ceece237083d8e56622f8761cf87ef4af71e0d4e0452f1ff4b
 Description: 免電腦自簽
+
+Package: com.axcvd.AccDemo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AccDemo_1.0.1_iphoneos-arm.deb
+Size: 1742
+MD5sum: 5ca7f7f85d78985d9ccef02db4d72ed3
+SHA1: 7afa906d13af13d05385960f01b61678cf0936f6
+SHA256: 3e01657e94b114acc16f01b9702d3cb448eb1fb142906ba2192b3a4c3decffd1
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AccDemo
+Name: AccDemo 繁體中文化

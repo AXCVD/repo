@@ -3568,7 +3568,7 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdaptiveDarkMode
 Name: AdaptiveDarkMode 繁體中文化
 
 Package: com.axcvd.Edge
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate

@@ -4477,3 +4477,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AccDemo
 Name: AccDemo 繁體中文化
+
+Package: com.axcvd.CallBarXPre
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.CallBarXPre_1.0.1_iphoneos-arm.deb
+Size: 3852
+MD5sum: 8c7077b5971690502af100c0a97736a5
+SHA1: 7a88e208e68728a04904fd36924f41c0222c8a89
+SHA256: 27eefaf314bd7514fe67b738890ed9d0b9db717aa0e64fd46245b2ffc4e02693
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBarXPre
+Name: CallBar XS(iOS12/13/14) 繁體中文化

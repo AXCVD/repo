@@ -4493,3 +4493,67 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBarXPre
 Name: CallBar XS(iOS12/13/14) 繁體中文化
+
+Package: com.axcvd.GmailNoAds
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.GmailNoAds_1.0.1_iphoneos-arm.deb
+Size: 1698
+MD5sum: 6fa6d9c2564dd9540fc24445c3f6043b
+SHA1: 36e2ac9832be33216d480eddc8a11c21990f9863
+SHA256: ca3b45d36f237c8e80378cb01e4a9ed788278e89b18451b35a6bbc68940f010b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.GmailNoAds
+Name: Gmail No Ads 繁體中文化
+
+Package: com.axcvd.Hestia
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Hestia_1.0.1_iphoneos-arm.deb
+Size: 1716
+MD5sum: 52789a6e6e4550031d06156afc089a1b
+SHA1: 910543f3cb7a02ddd9d9f6ca999463ae0719e2ec
+SHA256: 6e81182ef33181002b4b40d79f501f7d604c3dcbc578b67dcc6abef92f84d4c0
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Hestia
+Name: Hestia 繁體中文化
+
+Package: com.axcvd.killallapps
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.killallapps_1.0.1_iphoneos-arm.deb
+Size: 2998
+MD5sum: 6a87e266d37ec2848db897618c2a9b8a
+SHA1: 9bb8a6365dbbfcf2b81ef9b37da9c621730b2fc8
+SHA256: 7ce4f875d61ba87ddd8efcb5e6eab7b53582bdd83fff03ed0ef66dc91f949fc7
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.killallapps
+Name: Kill All Apps 繁體中文化
+
+Package: com.axcvd.MitsuhaForever
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MitsuhaForever_1.0.1_iphoneos-arm.deb
+Size: 2448
+MD5sum: 9de0b2d67f4d0e1cc35b754dfa830cc4
+SHA1: c89b6150d5bbaa9f2cbe74619ac0e4706d3eaf4d
+SHA256: 9d720cf5878bf6aad9b1df153e830660cef297431a8576a936bbe92bf689c54e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MitsuhaForever
+Name: Mitsuha Forever 繁體中文化

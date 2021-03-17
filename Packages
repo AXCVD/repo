@@ -3936,15 +3936,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DictMojiX
 Name: DictMojiX 繁體中文化
 
 Package: com.axcvd.InstagramNoAds
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.InstagramNoAds_1.0.2_iphoneos-arm.deb
-Size: 2010
-MD5sum: 5530099c14f37d8a7a14f48c7829fa3e
-SHA1: 8ed6238566c828eae8662c60850cba57f7de3b6c
-SHA256: 163a430371aa8a9fffa13d8dd8cfbf68ed4df92a0a10bf9cab085d02c60b1e89
+Filename: ./debs/com.axcvd.InstagramNoAds_1.0.3_iphoneos-arm.deb
+Size: 2640
+MD5sum: d90a59422e790b4824a4a8195cc3b252
+SHA1: 2a1a0846267a3c0f1ea0ab6895e37ac80ee54b73
+SHA256: 611f86dd9a02c7c81174c16b58fe920ad823e4d504a744138123eb8ac8635d70
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>

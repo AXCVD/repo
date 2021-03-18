@@ -4557,3 +4557,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MitsuhaForever
 Name: Mitsuha Forever 繁體中文化
+
+Package: com.axcvd.MYbloXXforiOS
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.MYbloXXforiOS_1.0.1_iphoneos-arm.deb
+Size: 3088
+MD5sum: 607d0edb0d227b6b8877208f1d8068c0
+SHA1: 0fe990a0e854027611bd758f5d97b00fa13ab8ca
+SHA256: f8b21e30dc01a69ba799f64ccf627b706affb46e4577a38506091979bba20d57
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MYbloXXforiOS
+Name: MYbloXXfor iOS 繁體中文化

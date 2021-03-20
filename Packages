@@ -4573,3 +4573,35 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MYbloXXforiOS
 Name: MYbloXXfor iOS 繁體中文化
+
+Package: com.axcvd.FacebookNoAds
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.FacebookNoAds_1.0.1_iphoneos-arm.deb
+Size: 2240
+MD5sum: 84b5b2624cd2635e37fb2b16ff9499ac
+SHA1: 5b58497465f884c6fb7ee10e187a1ed68ce287e5
+SHA256: c8558ab39d5763c0f223c594a01a3144afb951dcd4a69717094f4ffc93e7ba44
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FacebookNoAds
+Name: Facebook No Ads 繁體中文化
+
+Package: com.axcvd.IconCert
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.IconCert_1.0.1_iphoneos-arm.deb
+Size: 1908
+MD5sum: 7055abd6cbbbb977e550cb2be6f235b5
+SHA1: d2401eaa72fe1fc9887cbcfd8999c7a120ee8e2a
+SHA256: 0d2b433425c601966ede5b17cae7910e8886f53d5d382ae695d7367f432abd14
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.IconCert
+Name: IconCert 繁體中文化

@@ -1,7 +1,7 @@
 <package>
-	<id>com.axcvd.MYbloXXforiOS</id>
-	<name>MYbloXXfor iOS 繁體中文化</name>
-	<version>1.0.3</version>
+	<id>com.axcvd.Scribble</id>
+	<name>Scribble 繁體中文化</name>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>20.3</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>MYbloXXfor iOS 繁體中文化，使用前先安裝主程式</description>
+		<description>Scribble 繁體中文化，使用前先安裝主程式</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

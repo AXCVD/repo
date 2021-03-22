@@ -4559,15 +4559,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MitsuhaForever
 Name: Mitsuha Forever 繁體中文化
 
 Package: com.axcvd.MYbloXXforiOS
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.MYbloXXforiOS_1.0.2_iphoneos-arm.deb
-Size: 3442
-MD5sum: 1f99a2ce3465e7b71e6cf1366a4b6e71
-SHA1: c26f461917a03376c7e7d8a7a6c0baf8b8a44de1
-SHA256: 0550b7ef13a3e264b7b2f1621304cc72341cce443345511b6e93786f96a1b236
+Filename: ./debs/com.axcvd.MYbloXXforiOS_1.0.3_iphoneos-arm.deb
+Size: 2982
+MD5sum: c664a2500fd1df28096f003029605f28
+SHA1: 431305d3350351eb6dc62f55c7003fde1cd0eb36
+SHA256: 1362c7d7883d3ca31b3a13d4bf2160f1a29253a0b2a7bbd38af2917587e610ae
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
@@ -4605,3 +4605,35 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.IconCert
 Name: IconCert 繁體中文化
+
+Package: com.axcvd.AnimPlus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AnimPlus_1.0.1_iphoneos-arm.deb
+Size: 3154
+MD5sum: 303e08db3dacb88ce59f040e08281af3
+SHA1: 076d9593a97937ed20ac3092cbd78619bf610059
+SHA256: 45f2d49792d464a6f44c9440c9d12155b80a114d36c88fc334c6cd2e83aee729
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AnimPlus
+Name: AnimPlus 繁體中文化
+
+Package: com.axcvd.Scribble
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Scribble_1.0.1_iphoneos-arm.deb
+Size: 1886
+MD5sum: ddfdd55cc29a78a563509f3df903e15a
+SHA1: c551c55fccd14b0cc22c50e0b1c4cb86ace48db0
+SHA256: dce613f35e4a9b53c311856667616702010989a00449f825133e293644d7036b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Scribble
+Name: Scribble 繁體中文化

@@ -4048,15 +4048,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Choicy
 Name: Choicy 繁體中文化
 
 Package: com.axcvd.Laetus
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.Laetus_1.0.1_iphoneos-arm.deb
-Size: 2502
-MD5sum: 3c739a7792680889e212c4374ed0b106
-SHA1: 6758b782f2db242f25f77c4369a9b4c2bc83a96e
-SHA256: af946f94908914805f1b9da54589ea1dfcc8c03ff81096c1944f6fc31de274a1
+Filename: ./debs/com.axcvd.Laetus_1.0.2_iphoneos-arm.deb
+Size: 2736
+MD5sum: e07862db183a62e80bb77c08219bed47
+SHA1: 5c21fe4ca7cf5642b61d804b3d5e020e50dbfda0
+SHA256: 01e65d8a2ef3369392295475f83c0de52137a1c56279ca9171d6ca51417b5890
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>

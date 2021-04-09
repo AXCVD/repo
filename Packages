@@ -408,8 +408,8 @@ Size: 78812
 MD5sum: 2267f5ca1cfb462695b8699cdcba9817
 SHA1: 415930371a97613f9a94792069d9801f0282e957
 SHA256: 987bc0b03078ccd8246a6e72497b3bd6fc52a60dab1533407440181749835a3c
-Section: Localization
-Description: 使用前先裝主程式不然就沒有中文化了
+Section: Tweaks
+Description: 11.4.1才能用.11.4.1以上不行用
 Author: 匿名 <匿名>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cydia
 Name: Line主題所有主題免費下載

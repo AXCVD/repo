@@ -1,10 +1,10 @@
 <package>
-	<id>com.axcvd.Y1</id>
-	<name>死待蒙板</name>
+	<id>com.axcvd.y1</id>
+	<name>遮罩-立體頂亮</name>
 	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>53.3</maxiOS>
 			<otherVersions>11.0</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed

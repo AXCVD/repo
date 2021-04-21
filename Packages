@@ -408,11 +408,11 @@ Size: 78812
 MD5sum: 2267f5ca1cfb462695b8699cdcba9817
 SHA1: 415930371a97613f9a94792069d9801f0282e957
 SHA256: 987bc0b03078ccd8246a6e72497b3bd6fc52a60dab1533407440181749835a3c
-Section: Tweaks
-Description: 11.4.1才能用.11.4.1以上不行用
+Section: Localization
+Description: 使用前先裝主程式不然就
 Author: 匿名 <匿名>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cydia
-Name: Line主題所有主題免費下載
+Name: Line gggg
 
 Package: com.axcvd.DLEasy
 Version: 1.0.1
@@ -2463,22 +2463,6 @@ Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Himiko13
 Name: Himiko13繁體中文化
 
-Package: com.axcvd.FBSpNOsor
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: 小謝 <vv741852v@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.FBSpNOsor_1.0.1_iphoneos-arm.deb
-Size: 4974
-MD5sum: a93aa33aea9bd280794f83f76b0d651d
-SHA1: e0ef138eb52de2557d5555a54b164245c78c0f05
-SHA256: 4fece8047d18aafa8248e00610c7c949ba4f801c99ea8f4ba528866919751f71
-Section: Tweaks
-Description: 作者已下架在網路上找到的備份檔
-Author: JacobCXDev <jacobcxdev@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FBSpNOsor
-Name: FBSpNOsor
-
 Package: com.axcvd.Slices3
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -3552,38 +3536,6 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TwitchNoAds
 Name: Twitch No Ads 繁體中文化
-
-Package: com.axcvd.123456
-Version: 0.2.5.3
-Description: 韓國佬寫的屏蔽越獄檢測、禁止注入、禁用基板插件。
-Section: Tweaks
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: ./debs/com.axcvd.123456_0.2.5.3_iphoneos-arm.deb
-Size: 617762
-MD5sum: b9dca36585420396d217805ceb90965b
-SHA1: 584b5a8cc76301d60f8f89da08f233fe310faeba
-SHA256: af14f6b65fcc7479fc12980e3dca3f861d2f353c9062ee8e4d9be8cad1f744ce
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.123456
-Architecture: iphoneos-arm
-Name: FlyJB網路上找到的備份
-Author: XsF1re
-Conflicts: com.axcvd.123456.cn, com.crak.flyjb.cn, kr.xsf1re.flyjb
-
-Package: com.axcvd.12345
-Version: 0.0.6
-Section: Tweaks
-Maintainer: akusio
-Depends: mobilesubstrate, applist, preferenceloader, firmware(>=11.0)
-Filename: ./debs/com.axcvd.12345_0.0.6_iphoneos-arm.deb
-Size: 37210
-MD5sum: 12a50e1ec317a6f71d8a9a5608fece54
-SHA1: 6c4014c086c7fd665b09f4a61c01c59f92d489e9
-SHA256: 550eca1b261c2f0833d0f1ab6136214f2270d5ded050f2814220af8112d5b775
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.12345
-Architecture: iphoneos-arm
-Description:KernBypass內核級屏蔽網路上找到的備份
-Name: KernBypass內核級屏蔽
-Author: akusio/土撥鼠
 
 Package: com.axcvd.TwitterNoAds
 Version: 1.0.1

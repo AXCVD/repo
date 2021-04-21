@@ -3361,22 +3361,6 @@ Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TouchFlow
 Name: TouchFlow繁體中文化
 
-Package: com.axcvd.KernBypass
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 小謝 <vv741852v@gmail.com>
-Depends: jp.akusio.kernbypasss
-Filename: ./debs/com.axcvd.KernBypass_0.0.1_iphoneos-arm.deb
-Size: 954
-MD5sum: 5c130ddfae415f9d63a0f3a7ed172425
-SHA1: b9a17951d86da97f501b150b2f1b27e1ff532855
-SHA256: 875d0fb302eca174c94bfc07dd1d5d72512caaf5324390e047d84501a82e6501
-Section: Tweaks
-Description: 重新越獄來這裡下載才能可以直接使用喔！
-Author: Hiraku <dev@hiraku.tw>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KernBypass
-Name: 一鍵激活KernBypass
-
 Package: com.axcvd.YTKPrefs
 Version: 1.0.1
 Architecture: iphoneos-arm

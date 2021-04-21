@@ -4095,3 +4095,19 @@ Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用�
 Author: 網路上找到 <網路上找到>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.y2
 Name: 遮罩-超級立體
+
+Package: com.axcvd.Orion
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Orion_1.0.1_iphoneos-arm.deb
+Size: 34438
+MD5sum: 141a78def4059948b359b34c6de173b4
+SHA1: 8b3d2a69c0ab9183956d5af17253e9b4fdcad203
+SHA256: 4df6f49ee32c90805ffc37360b46bc88f0925256d6500a2061bfc6253d7c1b9e
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Orion
+Name: Orion 繁體中文化

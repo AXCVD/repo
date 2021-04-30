@@ -4047,3 +4047,35 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Orion
 Name: Orion 繁體中文化
+
+Package: com.axcvd.April
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.April_1.0.1_iphoneos-arm.deb
+Size: 1598
+MD5sum: 3605970efaa79640334e95e54dfcfdb1
+SHA1: efaf89fc6b6bca67dd47c6ab8246bb7e97077a98
+SHA256: 65b208b4395bb43e5c12461529aa3b04faad2f87ab20b09d314889db15b5ac70
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.April
+Name: April 繁體中文化
+
+Package: com.axcvd.ProKeys
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ProKeys_1.0.1_iphoneos-arm.deb
+Size: 3172
+MD5sum: fc087123ba8cd07fc2abaf091685d59a
+SHA1: c43017b142f2841b626529235019747a67487fa4
+SHA256: 4d1e6b099656875d43ab69bd9d2b280538a2552e0a909cd85303d07c11017869
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ProKeys
+Name: ProKeys 繁體中文化

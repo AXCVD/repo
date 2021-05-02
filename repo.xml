@@ -1,13 +1,23 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>贊助我一杯咖啡</name>
+			<name>本人都是用Google在翻譯的所以有些翻譯會錯誤</name>
 			<url>https://paypal.me/axvd</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
+		<link>
+			<name>是正常的要用就用不要用的就離開吧謝謝</name>
+			<url>https://t.me/joinchat/Nq2e4Bt0SM47jzzcuWbiWw</url>
 			<iconclass>fa fa-coffee</iconclass>
 		</link>
 		<link>
 			<name>iPhone JB 越獄 維修 完全攻略</name>
 			<url>https://t.me/joinchat/Nq2e4Bt0SM47jzzcuWbiWw</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
+		<link>
+			<name>贊助我一杯咖啡</name>
+			<url>https://paypal.me/axvd</url>
 			<iconclass>fa fa-coffee</iconclass>
 		</link>
 	</footerlinks>

@@ -4079,3 +4079,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ProKeys
 Name: ProKeys 繁體中文化
+
+Package: com.axcvd.Atria
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Atria_1.0.1_iphoneos-arm.deb
+Size: 3034
+MD5sum: 3a9b15ef5bd08c2dc565b0db207feefd
+SHA1: 13c165d08ead0d9ed79ea0d9ff892834eb917d4e
+SHA256: 72c9e2333f4bb3fd607345f61278e75469b8cccf60de426ef70882447b569cf9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Atria
+Name: Atria 繁體中文化

@@ -4033,20 +4033,20 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.y2
 Name: 遮罩-超級立體
 
 Package: com.axcvd.Orion
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.Orion_1.0.3_iphoneos-arm.deb
-Size: 36802
-MD5sum: daf166b6293ec354feddd8911cc40c02
-SHA1: a26c07b877a5419dd299e2acec82036c37079823
-SHA256: 067089cd7103464fbe53a0a758a4e9e3b8578246450a8777a81f187b7de09cf1
+Filename: ./debs/com.axcvd.Orion_1.0.4_iphoneos-arm.deb
+Size: 72582
+MD5sum: a594e3fe02e0bc8397f84ef38ba5d1b9
+SHA1: 26758173e5f22c8461b56ca12189627e012c4423
+SHA256: b6ba7c97df91a68abdac2e14b87e75937ebec8d70b9a1669765f7785fbf9f7d8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Orion
-Name: Orion 繁體中文化
+Name: Orion 繁體中文化加简体中文化
 
 Package: com.axcvd.April
 Version: 1.0.1

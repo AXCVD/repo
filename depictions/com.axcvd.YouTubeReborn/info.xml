@@ -1,0 +1,23 @@
+<package>
+	<id>com.axcvd.YouTubeReborn</id>
+	<name>YouTube Reborn作者以下架這個是備份</name>
+	<version>2.1.3.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.3</maxiOS>
+			<otherVersions>11.0</otherVersions>
+			<!--
+			對於其他版本，您可以放置不受支持或未經確認的版本
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>YouTube Reborn作者以下架這個是備份</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>感謝你的下載</change>
+	</changelog>
+	<links></links>
+</package>

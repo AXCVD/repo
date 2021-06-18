@@ -4092,6 +4092,22 @@ SHA1: 70f3ca7c60f9ed19498b60b2a06a705f06dd7237
 SHA256: b5b95e0a81ccc83ec61a1b74d7016e819bd7268dfa183b7583fd742a798268b9
 Section: Tweaks
 Description: YouTube Reborn作者以下架這個是備份
-Author: Ryan,Sarah,Zoey<....>
+Author: Ryan,Sarah,Zoey <....>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.YouTubeReborn
-Name: YouTube Reborn作者以下架這個是備份
+Name: YouTube Reborn
+
+Package: com.axcvd.NotifyMe
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.NotifyMe_1.0.1_iphoneos-arm.deb
+Size: 2428
+MD5sum: 5ce202430c8f5b1dd2f187d0c2c7844b
+SHA1: c670f72bd9d19233fdaeb1a3af738c023797e18d
+SHA256: 8a5f6b990fd57dc4516c8759534a8c42cdbd506e6cf9ab9b17a210a8c55cffc9
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NotifyMe
+Name: NotifyMe 繁體中文化

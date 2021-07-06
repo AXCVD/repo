@@ -4143,35 +4143,3 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ReScale2
 Name: Re:Scale 2 繁體中文化
-
-Package: com.axcvd.vnodebypass+libkrw
-Version: 0.2.5
-Architecture: iphoneos-arm
-Maintainer: 小謝 <vv741852v@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.vnodebypass+libkrw_0.2.5_iphoneos-arm.deb
-Size: 355758
-MD5sum: 854ed7e7d3d8c70e276355f45254252b
-SHA1: 16aa9baaf09ad3f0567a18194aed99a968aab434
-SHA256: e0f92ef5bcb01621c366ce743e5edd9b5c07d9f9c7625c465f8cc637e4662322
-Section: Tweaks
-Description: unc0ver專用直接安裝不用依賴因為我加到裡面了
-Author: XsF1re <....>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.vnodebypass+libkrw
-Name: vnodebypass+libkrw
-
-Package: com.axcvd.vnodebypass+libkernrw1.0
-Version: 0.2.5
-Architecture: iphoneos-arm
-Maintainer: 小謝 <vv741852v@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.vnodebypass+libkernrw1.0_0.2.5_iphoneos-arm.deb
-Size: 349830
-MD5sum: 52d4ab656a77d9ca0b3ae95a1e65632c
-SHA1: 598492ed1e7cbb8fe472fecb2ad49b5ab5365d03
-SHA256: 2ec52ff0b65335efcf3c069d5d9f3f43e7d20ef3fa88ad795e00cc3859a38cb7
-Section: Tweaks
-Description: 牛磺酸專用直接安裝不用依賴因為我加到裡面了
-Author: XsF1re <....>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.vnodebypass+libkernrw1.0
-Name: vnodebypass+libkernrw1.0

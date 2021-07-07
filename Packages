@@ -4143,3 +4143,35 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ReScale2
 Name: Re:Scale 2 繁體中文化
+
+Package: com.axcvd.vnodebypassa
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.vnodebypassa_0.2.5_iphoneos-arm.deb
+Size: 35576
+MD5sum: 13f159982978c6d7153676d80dce24f6
+SHA1: 3d4e88545f11d44dc5ddb99a5672f5fc32182875
+SHA256: 9104e1e8642fa98b105aec371c6c2baf82a29e88e229b8ff300f474a7ba024e4
+Section: Tweaks
+Description: 這個是unc0ver專用直接安裝不用依賴
+Author: XsF1re
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.vnodebypassa
+Name: vnodebypassa
+
+Package: com.axcvd.vnodebypass
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.vnodebypass_0.2.5_iphoneos-arm.deb
+Size: 349863
+MD5sum: d7b43d2326e0062c78b659d2acf99fdd
+SHA1: da6b08a9a3fed52841389647e5d7ba19adbba1c7
+SHA256: 01f5f235b15f2fcad0d26417a73a9186abb191410a783f41c5c68a6c52589781
+Section: Tweaks
+Description: 這個是牛磺酸專用直接安裝不用依賴
+Author: XsF1re
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.vnodebypass
+Name: vnodebypass

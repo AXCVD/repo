@@ -911,20 +911,20 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NudeKeys
 Name: NudeKeys繁體中文化
 
 Package: com.axcvd.OpenSshPort
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.OpenSshPort_1.0.1_iphoneos-arm.deb
-Size: 1990
-MD5sum: 01b6acbde5293e5db4a71c8b07d513bc
-SHA1: bf5bc176f04c2db57fbda6ce035845a2b97462a8
-SHA256: 8d4ded7d26ca4395590e45cb3a974d7201ef43aa116289466d7aa34b78060315
+Filename: ./debs/com.axcvd.OpenSshPort_1.0.2_iphoneos-arm.deb
+Size: 2578
+MD5sum: b8b0e32b2c7d5d18f17ee2c902cb0bdc
+SHA1: b8b0d26d6ce10748bc7bfb1b39fab84d05a6a3f7
+SHA256: fbc54f182a0277986590fc7783fea8919a02ae5cccfaa6ce76616f768393e0f7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.OpenSshPort
-Name: OpenSshPort繁體中文化
+Name: OpenSSH繁體中文化
 
 Package: com.axcvd.Palette
 Version: 1.0.1

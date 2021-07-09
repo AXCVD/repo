@@ -4191,3 +4191,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AFont
 Name: A-Font 繁體中文化
+
+Package: com.axcvd.LightsOut
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.LightsOut_1.0.1_iphoneos-arm.deb
+Size: 2056
+MD5sum: b15b4c30d09d14db8d81f170496d6fbc
+SHA1: abff55fcccc25ca4cef14dc5e8adf8f1ab3336f1
+SHA256: e23a1e1451c29042ecc24a800f7a8fefcb9265582a3aac4b52cfe5387acd781b
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LightsOut
+Name: LightsOut 繁體中文化

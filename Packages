@@ -1392,15 +1392,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.sawprefs
 Name: sawprefs繁體中文化
 
 Package: com.axcvd.shuffle
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.shuffle_1.0.4_iphoneos-arm.deb
-Size: 2356
-MD5sum: f5b0f56bd3a29c8d704afe6d46256d02
-SHA1: 329b37d5aeb2643f240cc5545ea0e1431ee6e4a1
-SHA256: aa0c51761c717d171d9c50a7475295389ec7b29ed278c322e86c0a0dd59ce2f3
+Filename: ./debs/com.axcvd.shuffle_1.0.5_iphoneos-arm.deb
+Size: 3306
+MD5sum: bf96f21faa31160b10c3657499cf943a
+SHA1: d68b754cb85f4517d4c98c0adc361e9f2ecff259
+SHA256: 77734931380c9e13274556835452dbb911e7ec4686d78f2ecd12d722d4d4eafb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
@@ -4145,15 +4145,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ReScale2
 Name: Re:Scale 2 繁體中文化
 
 Package: com.axcvd.vnodebypassa
-Version: 0.2.5
+Version: 0.2.6
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.vnodebypassa_0.2.5_iphoneos-arm.deb
-Size: 355764
-MD5sum: 13f159982978c6d7153676d80dce24f6
-SHA1: 3d4e88545f11d44dc5ddb99a5672f5fc32182875
-SHA256: 9104e1e8642fa98b105aec371c6c2baf82a29e88e229b8ff300f474a7ba024e4
+Filename: ./debs/com.axcvd.vnodebypassa_0.2.6_iphoneos-arm.deb
+Size: 366384
+MD5sum: 5c36d60887c1c2983e0c55b8fb853a8d
+SHA1: 56eb30ec6e2c1a88e5d8e83f07cbe2f1259a86b3
+SHA256: 60f310c5409f19bcfd245983d768a8aa3bc8474593b914cfb3ca2e1a57cfba4e
 Section: Tweaks
 Description: 這個是unc0ver專用直接安裝不用依賴
 Author: XsF1re
@@ -4161,15 +4161,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.vnodebypassa
 Name: vnodebypassa
 
 Package: com.axcvd.vnodebypass
-Version: 0.2.5
+Version: 0.2.6
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.vnodebypass_0.2.5_iphoneos-arm.deb
-Size: 349836
-MD5sum: d7b43d2326e0062c78b659d2acf99fdd
-SHA1: da6b08a9a3fed52841389647e5d7ba19adbba1c7
-SHA256: 01f5f235b15f2fcad0d26417a73a9186abb191410a783f41c5c68a6c52589781
+Filename: ./debs/com.axcvd.vnodebypass_0.2.6_iphoneos-arm.deb
+Size: 360400
+MD5sum: 9146fd1c8ee637fdaa2fa465098dc1ea
+SHA1: 60bb2ca9659406fc158fcd3884a7935f2525c14a
+SHA256: 2b9d67f1604f4b2976eb76f4d3c1a6f32ffc399492dde7756e512968331dd569
 Section: Tweaks
 Description: 這個是牛磺酸專用直接安裝不用依賴
 Author: XsF1re

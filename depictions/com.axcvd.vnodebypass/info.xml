@@ -1,7 +1,7 @@
 <package>
 	<id>com.axcvd.vnodebypass</id>
 	<name>這個是牛磺酸專用直接安裝不用依賴</name>
-	<version>0.2.5</version>
+	<version>0.2.6</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>20.3</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>直接安裝不用依賴因為我加到裡面了,這個是牛磺酸專用的不是的不要下載,出問題不要找我,我只是打包而已</description>
+		<description>直接安裝不用依賴因為我加到裡面了,這個是牛磺酸專用的不是的不要下載,出問題不要找我,我只是打包而已,加入CC模塊的啓用/停用vnodebypass作者level3tjg</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
